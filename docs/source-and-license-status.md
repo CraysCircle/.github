@@ -9,6 +9,9 @@ This page distinguishes completed source-preservation work from the remaining AW
 - Before/after Git references, branches, issues/PRs, releases, hooks, deploy keys and collaborator permissions were compared. The Git content was preserved. Newly registered organization CodeQL/dependency-graph jobs were documented separately from product deployment workflows.
 - The original Qlo gateway's five qualified source/build files are preserved in [crays-platform at commit 1b6e9188a1723be54d1f21e718142f019088f0d4](https://github.com/CraysCircle/crays-platform/commit/1b6e9188a1723be54d1f21e718142f019088f0d4). Their remote file bytes match the supplied original/build hashes. This is a source-capture milestone; it does not approve runtime startup or close its remaining license evidence.
 
+- The platform repository is public, with anonymous metadata and original gateway source access verified. Its [supplement commit e490404d43c400f397d2eb6e4b9f0fd62b48966b](https://github.com/CraysCircle/crays-platform/commit/e490404d43c400f397d2eb6e4b9f0fd62b48966b) preserves four original tests, the original README and reviewed Qlo account2/storage-guard programs. All fifteen supplemented source/documentation files were read back and compared byte for byte; no program was executed.
+- All twenty project descriptions and category topics have been verified. The [structure and update rules](repository-structure.md) explain how existing repositories receive newer source and how the eleven websites are tracked.
+
 ## Public access
 
 The owner has requested public access to every source repository. Existing private repositories are being checked across their contents and Git history before their visibility changes. Secrets, private keys and personal customer data must not be exposed. The public-access work is not complete until the actual repository visibility and unauthenticated access have been verified.

@@ -6,7 +6,7 @@ This is the navigation map for CraysCircle. It separates implementation source, 
 
 | Repository | Source role | Version guidance |
 | --- | --- | --- |
-| [crays-platform](https://github.com/CraysCircle/crays-platform) | Shared CRAYS service source. The first captured component is the Qlo gateway, with exact AWS image/source hashes. | Current gateway source capture; license closure and broader platform import remain in progress. |
+| [crays-platform](https://github.com/CraysCircle/crays-platform) | Shared CRAYS service source. Qlo gateway, original tests and reviewed Qlo operations source, with exact provenance. | Current gateway source capture; license closure and broader platform import remain in progress. |
 
 ## Websites and web applications
 
@@ -15,7 +15,7 @@ This is the navigation map for CraysCircle. It separates implementation source, 
 | [crays-club](https://github.com/CraysCircle/crays-club) | Retained original Club static website source. | A newer AWS Club composition must be mapped separately. |
 | [crays-org](https://github.com/CraysCircle/crays-org) | Association website source, static assets, server wrapper and scripts. | Original repository plus later AWS supplements must be distinguished. |
 | [crays-web-codex](https://github.com/CraysCircle/crays-web-codex) | Primal-derived CRAYS Nostr website source. | Retains its upstream fork relationship and original MIT license. |
-| [crays-franchise](https://github.com/CraysCircle/crays-franchise) | React/Vite Franchise application source. | Retained original source; not assumed identical to the current Club AWS build. |
+| [crays-franchise](https://github.com/CraysCircle/crays-franchise) | Franchise Investment OS interface using React, TanStack Start and Vite. | Retained original source; not assumed identical to the current Club AWS build. |
 | [crays-fund](https://github.com/CraysCircle/crays-fund) | Fund static website source snapshot. | The exact AWS server/build-source relationship is being reconciled. |
 | [crays-world](https://github.com/CraysCircle/crays-world) | World website pages, assets and retained editable source. | The exact latest AWS composition is being reconciled. |
 | [crays-gym](https://github.com/CraysCircle/crays-gym) | Retained Gym and shared-platform source tree with development history. | Contains multiple areas; current AWS releases and uncommitted derivatives require separate source records. |
@@ -60,3 +60,5 @@ This is the navigation map for CraysCircle. It separates implementation source, 
 4. Read the project's original license texts, NOTICE files, modification notes and source-availability record.
 
 Source and documentation imports are continuing until the AWS migration owner reports completion and the final GitHub reconciliation passes. The [status page](source-and-license-status.md) records established milestones and remaining gaps.
+
+See the [repository structure and update rules](https://github.com/CraysCircle/.github/blob/main/docs/repository-structure.md) for where current sources, shared components, operations and historical versions belong.

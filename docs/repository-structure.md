@@ -59,4 +59,6 @@ For every preserved component, compare the original bytes with the committed byt
 
 A completion record must distinguish source preservation, dependency completeness, reproducible build verification, deployment and license closure. Keep unresolved checks visible rather than treating repository existence or public visibility as proof.
 
+If source embeds a protected operational binding, preserve a clearly identified template, record both original and exported file hashes, and verify reconstruction with separately protected values. Describe the remaining protected-backup requirement; a template alone does not prove full disaster recovery.
+
 Secrets, private keys, customer data and database exports remain in separately protected backups. Source recovery instructions must identify those prerequisites without disclosing their contents.

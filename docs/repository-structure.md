@@ -1,6 +1,6 @@
 # Repository structure and update rules
 
-The original twenty project repositories are the starting point. Coffee was added as a standalone project only after checking all existing repositories and confirming that none matched that website. Current source belongs in the repository of the same project after its origin and history have been checked. A migration capture, build attempt or source revision does not create a new product repository.
+The original twenty project repositories are the starting point. Coffee, Shop and Pro were added as standalone projects only after checking all existing repositories and confirming that no matching project repositories existed. They represent actual websites, not one repository per build attempt. Current source belongs in the repository of the same project after its origin and history have been checked. A migration capture, build attempt or source revision does not create a new product repository.
 
 The [.github profile](../profile/README.md) is the organization entry point. [The repository guide](repositories.md) identifies each project's role. This navigation repository contains organization documentation; application implementations remain in their project repositories.
 
@@ -42,8 +42,8 @@ All eleven known website compositions must be reconciled individually. This tabl
 | Club | crays-club retains the original static site; newer Club/Member composition has distinct source ancestry | Map the complete newer composition and shared inputs before calling the repository current. |
 | Gym | crays-gym retains Gym and historical platform source | Reconcile current source and WIP separately from older committed material. |
 | Coffee | crays-coffee now preserves the qualified Next.js capture and public source files | All eight recorded source states, including the two later CSS files, are preserved; media/dependency/license and earlier-history closure remain open. |
-| Shop | Qualified migration source and later source fix are recorded | Resolve the complete composition and existing destination. |
-| Pro | Qualified migration source and later source fix are recorded | Resolve the complete composition and existing destination. |
+| Shop | crays-shop preserves the qualified capture, final fallback and original reference code | Source/history/font notices verified; media/dependency/license and earlier-history closure stay open. |
+| Pro | crays-pro preserves the qualified public website and final menu/login fix | Source/history verified; other Pro systems, media/dependency/runtime and rights acceptance remain separate. |
 | Net | crays-web-codex retains the exact 982-file Primal-derived source; crays-platform preserves hosting/net | Exact original tree/license and wrapper bytes verified; reproducible build and full runtime/dependency notice closure remain open. |
 | Org | crays-org retains the association site | Preserve later source supplements in addition to its original commit. |
 | Fund | crays-fund retains a static source snapshot | Editable/build/server-source gaps remain explicit. |

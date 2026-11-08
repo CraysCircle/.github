@@ -20,6 +20,8 @@ Preserved platform components:
 | --- | --- | --- |
 | [crays-club](https://github.com/CraysCircle/crays-club) | Retained original Club static website source. | A newer AWS Club composition must be mapped separately. |
 | [crays-coffee](https://github.com/CraysCircle/crays-coffee) | Qualified Coffee Next.js capture and original public source files. | Exact eight-file source state preserved; remaining media/dependency/license and earlier-history closure stays explicit. |
+| [crays-shop](https://github.com/CraysCircle/crays-shop) | Qualified storefront, original public source and Store/worker references. | Three-commit capture, 466 selected source/build/reference files and original font notices verified; remaining media/dependency/license/earlier-history scope stays explicit. |
+| [crays-pro](https://github.com/CraysCircle/crays-pro) | Qualified public Pro website; crays-franchise component paths retain their original names. | Two-commit capture and 89 selected sources verified; Franchise Manager and Targomo runtime acceptance are separate. |
 | [crays-org](https://github.com/CraysCircle/crays-org) | Association website source, static assets, server wrapper and scripts. | Original repository plus later AWS supplements must be distinguished. |
 | [crays-web-codex](https://github.com/CraysCircle/crays-web-codex) | Primal-derived CRAYS Nostr website source. | Retains its upstream fork relationship and original MIT license. |
 | [crays-franchise](https://github.com/CraysCircle/crays-franchise) | Franchise Investment OS interface using React, TanStack Start and Vite. | Retained original source; not assumed identical to the current Club AWS build. |

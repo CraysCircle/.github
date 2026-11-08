@@ -21,6 +21,7 @@ Use this map to find CRAYS projects, shared services and retained upstream forks
 | Repository | What it contains |
 | --- | --- |
 | [crays-club](https://github.com/CraysCircle/crays-club) | Retained original Club static website source. |
+| [crays-coffee](https://github.com/CraysCircle/crays-coffee) | Qualified Coffee Next.js source, original public scripts and exact source/artifact records. |
 | [crays-org](https://github.com/CraysCircle/crays-org) | Association website source, static assets, server wrapper and scripts. |
 | [crays-web-codex](https://github.com/CraysCircle/crays-web-codex) | Primal-derived CRAYS Nostr website source. |
 | [crays-franchise](https://github.com/CraysCircle/crays-franchise) | Franchise Investment OS interface using React, TanStack Start and Vite. |

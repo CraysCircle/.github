@@ -16,6 +16,9 @@ This page distinguishes completed source-preservation work from the remaining AW
 - The [Delivery source capture 16e0a635282d5f5358c3e040257c9598a965655a](https://github.com/CraysCircle/crays-platform/commit/16e0a635282d5f5358c3e040257c9598a965655a) preserves the three exact Postiz operations source/public-binding files and their immutable source references. All six changed source/documentation files were remotely byte-verified. Private launch/environment/custody metadata and raw private diagnostics were excluded.
 - No captured operations program was executed. Historical test results, reviewed source candidates, actual runtime execution and license closure remain distinct.
 
+- [Coffee source capture a31ec649a8ba47ebdbf0ed03a8d6c01c2bf70ffa](https://github.com/CraysCircle/crays-coffee/commit/a31ec649a8ba47ebdbf0ed03a8d6c01c2bf70ffa) preserves the qualified two-commit Next.js capture and 53 app/public-source files. The exact eight recorded source states are represented, including the two CSS states absent from the prior commit. Every current source/documentation file was remotely byte-verified and exact CSS access verified anonymously. Earlier shared product history, distinct WIP, 116 binary asset records, dependency recovery and complete license closure remain open.
+- [Net composition 8704e6685a333ad14d75ddc931599863506a1b7d](https://github.com/CraysCircle/crays-platform/commit/8704e6685a333ad14d75ddc931599863506a1b7d) preserves the unchanged hosting wrapper and original application MIT notice. The complete 982-file original application tree was verified in its existing crays-web-codex repository at 2b81461e8e8b5ee6fbdb59e36215c4b574d235bf. No application repository was duplicated; full rebuild/runtime/dependency rights evidence remains separate.
+
 ## Public access
 
 The owner has requested public access to every source repository. Existing private repositories are being checked across their contents and Git history before their visibility changes. Secrets, private keys and personal customer data must not be exposed. The public-access work is not complete until the actual repository visibility and unauthenticated access have been verified.
@@ -28,7 +31,7 @@ The owner has requested public access to every source repository. Existing priva
 - Full source-to-commit-to-artifact mappings for the eleven website compositions and the shared/native services.
 - Required uncommitted source changes, test sources and coding/operational documentation. Source snapshots must not omit actual later changes merely because an older Git HEAD exists.
 
-Examples of known source reconciliation points include the Coffee CSS states absent from its prior commit, complete later AWS source compositions and native/Core WIP for which metadata is not yet a content-preservation receipt. These points remain open until their actual contents and version relationships are verified.
+Examples of remaining reconciliation points include complete later AWS source compositions, earlier mixed product history and distinct local WIP, plus native/Core WIP for which metadata is not yet a content-preservation receipt. The specifically recorded Coffee CSS gap has been closed by its exact source capture. These points remain open until their actual contents and version relationships are verified.
 
 ## Release process
 

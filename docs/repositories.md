@@ -19,6 +19,7 @@ Preserved platform components:
 | Repository | Source role | Version guidance |
 | --- | --- | --- |
 | [crays-club](https://github.com/CraysCircle/crays-club) | Retained original Club static website source. | A newer AWS Club composition must be mapped separately. |
+| [crays-coffee](https://github.com/CraysCircle/crays-coffee) | Qualified Coffee Next.js capture and original public source files. | Exact eight-file source state preserved; remaining media/dependency/license and earlier-history closure stays explicit. |
 | [crays-org](https://github.com/CraysCircle/crays-org) | Association website source, static assets, server wrapper and scripts. | Original repository plus later AWS supplements must be distinguished. |
 | [crays-web-codex](https://github.com/CraysCircle/crays-web-codex) | Primal-derived CRAYS Nostr website source. | Retains its upstream fork relationship and original MIT license. |
 | [crays-franchise](https://github.com/CraysCircle/crays-franchise) | Franchise Investment OS interface using React, TanStack Start and Vite. | Retained original source; not assumed identical to the current Club AWS build. |

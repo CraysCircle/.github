@@ -1,52 +1,61 @@
-# Source and license status
+# Source, license and recovery status
 
-This page distinguishes completed source-preservation work from the remaining AWS/version/license reconciliation. It is not a declaration of full legal or production acceptance.
+**Consolidation is in progress. GitHub does not yet contain the complete current CRAYS source and recovery set.** Public access, source preservation, reproducible builds and license clearance are checked separately.
 
-## Established milestones
+Start with the [repository guide](repositories.md) and [structure rules](repository-structure.md). Detailed commit links and byte-verification records are in [verification records](verification-records.md).
 
-- All nine repositories originally owned by ThorbenAroundTheWorld were transferred natively to CraysCircle, including four private repositories. No source repository was replaced with a copy or deleted.
-- The authenticated, fully paginated personal-owner repository query returned zero owned repositories after the transfers.
-- Before/after Git references, branches, issues/PRs, releases, hooks, deploy keys and collaborator permissions were compared. The Git content was preserved. Newly registered organization CodeQL/dependency-graph jobs were documented separately from product deployment workflows.
-- The original Qlo gateway's five qualified source/build files are preserved in [crays-platform at commit 1b6e9188a1723be54d1f21e718142f019088f0d4](https://github.com/CraysCircle/crays-platform/commit/1b6e9188a1723be54d1f21e718142f019088f0d4). Their remote file bytes match the supplied original/build hashes. This is a source-capture milestone; it does not approve runtime startup or close its remaining license evidence.
+## Organization and access
 
-- The platform repository is public, with anonymous metadata and original gateway source access verified. Its [supplement commit e490404d43c400f397d2eb6e4b9f0fd62b48966b](https://github.com/CraysCircle/crays-platform/commit/e490404d43c400f397d2eb6e4b9f0fd62b48966b) preserves four original tests, the original README and reviewed Qlo account2/storage-guard programs. All fifteen supplemented source/documentation files were read back and compared byte for byte; no program was executed.
-- All twenty project descriptions and category topics have been verified. The [structure and update rules](repository-structure.md) explain how existing repositories receive newer source and how the eleven websites are tracked.
+The organization currently contains **23 project repositories and one navigation repository**. The original twenty projects were retained; Coffee, Shop and Pro were added only after establishing their independent source roles and the absence of matching repositories.
 
-- The [BFF/runtime-source capture a9e950d5403f39750dfe6fa644f7bf2aac044a10](https://github.com/CraysCircle/crays-platform/commit/a9e950d5403f39750dfe6fa644f7bf2aac044a10) preserves all nine qualified original Clubs Commerce BFF files, fourteen version-specific dependency notices and four gateway-runtime program versions. All 38 new/changed source, documentation and notice files were remotely byte-verified. The earlier wrapper remains preserved separately from its current revision.
-- The [Delivery source capture 16e0a635282d5f5358c3e040257c9598a965655a](https://github.com/CraysCircle/crays-platform/commit/16e0a635282d5f5358c3e040257c9598a965655a) preserves the three exact Postiz operations source/public-binding files and their immutable source references. All six changed source/documentation files were remotely byte-verified. Private launch/environment/custody metadata and raw private diagnostics were excluded.
-- No captured operations program was executed. Historical test results, reviewed source candidates, actual runtime execution and license closure remain distinct.
+All nine repositories originally owned by ThorbenAroundTheWorld were transferred natively, preserving their Git history and repository relationships. The authenticated personal-owner query returned zero owned repositories after those transfers.
 
-- [Coffee source capture a31ec649a8ba47ebdbf0ed03a8d6c01c2bf70ffa](https://github.com/CraysCircle/crays-coffee/commit/a31ec649a8ba47ebdbf0ed03a8d6c01c2bf70ffa) preserves the qualified two-commit Next.js capture and 53 app/public-source files. The exact eight recorded source states are represented, including the two CSS states absent from the prior commit. Every current source/documentation file was remotely byte-verified and exact CSS access verified anonymously. Earlier shared product history, distinct WIP, 116 binary asset records, dependency recovery and complete license closure remain open.
-- [Net composition 8704e6685a333ad14d75ddc931599863506a1b7d](https://github.com/CraysCircle/crays-platform/commit/8704e6685a333ad14d75ddc931599863506a1b7d) preserves the unchanged hosting wrapper and original application MIT notice. The complete 982-file original application tree was verified in its existing crays-web-codex repository at 2b81461e8e8b5ee6fbdb59e36215c4b574d235bf. No application repository was duplicated; full rebuild/runtime/dependency rights evidence remains separate.
+As checked on 8 November 2026, **19 repositories are public and five remain private**: crays-fund, crays-gym, crays-franchise, crays-world and crays-ios. Their remaining confidentiality and rights checks must finish before public access is treated as complete. All repository descriptions are present.
 
-- [Shop capture 048b15ee1f83af97c69072dae44c00f8e114ff9c](https://github.com/CraysCircle/crays-shop/commit/048b15ee1f83af97c69072dae44c00f8e114ff9c) preserves the three-commit qualified history and 466 selected source/build/public/reference files, including original Inter/Bebas Neue packages and notices. All 474 current source/documentation/notice files were byte-verified from a fresh anonymous GitHub clone.
-- [Pro capture dd0ad61e73ef5581dad3e3b176815180e0992f67](https://github.com/CraysCircle/crays-pro/commit/dd0ad61e73ef5581dad3e3b176815180e0992f67) preserves the two-commit qualified history and 89 selected source/public files. All 96 current source/documentation files were byte-verified from a fresh anonymous GitHub clone.
-- Exact final changed-source access was also verified anonymously. Neither capture executed the application, started a provider or performed a product deployment. Remaining asset/dependency/runtime notices, application licensing and earlier mixed history remain open.
+## What is preserved in GitHub
 
-- [Neon → RDS operations b9015f96e166671a18081f0e89dc365cce406e80](https://github.com/CraysCircle/crays-platform/commit/b9015f96e166671a18081f0e89dc365cce406e80) extends the existing platform repository with twelve selected migration programs: six unchanged originals and six public templates that withhold protected fixed bindings. All twelve originals were reconstructed and SHA-256 verified privately without executing them; all eighteen changed public files were byte-verified through a fresh anonymous clone. The [component guide](https://github.com/CraysCircle/crays-platform/tree/main/operations/neon-rds) explains recovery and the still-open dependency, protected-backup and licensing work. This is a selected source export, not complete migration recovery.
+“Preserved” below applies to the stated capture, not to every later source version, dependency, media asset or license obligation.
 
-## Public access
+| Component | Verified source coverage | Remaining limits |
+| --- | --- | --- |
+| Qlo gateway | Original service/build files, original README and four test files in [crays-platform](https://github.com/CraysCircle/crays-platform/tree/main/services/qlo-gateway) | Runtime/dependency notices and full rights closure remain open; captured tests were not freshly executed. |
+| Clubs Commerce BFF | Nine original files and fourteen original dependency notices in [crays-platform](https://github.com/CraysCircle/crays-platform/tree/main/services/clubs-commerce-bff) | Full application/image licensing and deployment acceptance remain separate. |
+| Migration operations | Selected Qlo, storage, Postiz and [Neon → RDS](https://github.com/CraysCircle/crays-platform/tree/main/operations/neon-rds) sources | Programs retain protected inputs and historical assumptions. Six RDS files are templates; reconstruction of twelve originals was verified privately. |
+| Net | Exact 982-file application tree in [crays-web-codex](https://github.com/CraysCircle/crays-web-codex/tree/2b81461e8e8b5ee6fbdb59e36215c4b574d235bf), with original MIT notice and unchanged hosting wrapper in [crays-platform](https://github.com/CraysCircle/crays-platform/tree/main/hosting/net) | Rebuild, runtime and complete dependency notice evidence remain open. |
+| Coffee | Qualified two-commit capture and 53 app/public-source files in [crays-coffee](https://github.com/CraysCircle/crays-coffee), including all eight recorded source states | Earlier mixed product history, distinct WIP, media and dependency/recovery/license closure remain open. |
+| Shop | Qualified three-commit capture and 466 selected source/build/public/reference files in [crays-shop](https://github.com/CraysCircle/crays-shop), including original font notices | Media, complete dependencies/runtime notices, application licensing and earlier-history closure remain open. |
+| Pro | Qualified two-commit capture and 89 selected source/public files in [crays-pro](https://github.com/CraysCircle/crays-pro) | Other Pro systems, media, dependencies/runtime notices, application licensing and earlier history remain separate. |
 
-The owner has requested public access to every source repository. Existing private repositories are being checked across their contents and Git history before their visibility changes. Secrets, private keys and personal customer data must not be exposed. The public-access work is not complete until the actual repository visibility and unauthenticated access have been verified.
+Each listed capture was read back from GitHub and checked against its recorded source bytes. [Verification records](verification-records.md) retain the exact commits and verification scopes.
 
-## License and source evidence still being completed
+## Larger source imports still open
 
-- Exact original license and NOTICE texts for the versions actually used in AWS images, including runtime and bundled dependencies.
-- Corresponding-source and source-offer obligations, with source that the relevant recipients can actually obtain.
-- Original authorship and licensing records where the retained CRAYS project roots have no explicit LICENSE/NOTICE metadata. No license is assigned by inference.
-- Full source-to-commit-to-artifact mappings for the eleven website compositions and the shared/native services.
-- Required uncommitted source changes, test sources and coding/operational documentation. Source snapshots must not omit actual later changes merely because an older Git HEAD exists.
+| Source area | Current evidence and next requirement |
+| --- | --- |
+| Club and shared Next.js composition | 2,045 selected files plus the baseline preimage of a separately declared one-line change are staged and byte-verified outside GitHub. Privacy review and publication remain pending. The five original integration files are included. |
+| Shared-source destination | The retained Gym repository contains the historical crays-platform subtree. Of the selected later files, 593 have identical paths and bytes there, 24 have changed at the same paths and 1,428 have new paths. The later composition includes Club, Member/SaaS and investment routes. The shared application is assigned centrally to crays-platform, with product-specific version references; this does not mean its code has already been published there. The original Gym history remains retained. |
+| Other website compositions | The [eleven-site table](repository-structure.md#eleven-website-compositions) tracks each website. Org supplements, editable Fund/Fun sources and other current source/version gaps remain open. Redirects and historical variants require their own records. |
+| Personal, Member, native/Core and iOS | Required current source, later overlays, distinct WIP, tests and coding/operations documents must be preserved beyond older Git commits and metadata inventories. |
 
-Examples of remaining reconciliation points include complete later AWS source compositions, earlier mixed product history and distinct local WIP, plus native/Core WIP for which metadata is not yet a content-preservation receipt. The specifically recorded Coffee CSS gap has been closed by its exact source capture. These points remain open until their actual contents and version relationships are verified.
+The prepared Club source is not a successful new build or deployment. It must not replace the recorded running-version map merely because a source tree exists.
 
-## Release process
+## Dependency and license work
 
-1. Authorized development on a fresh XXL environment.
-2. Complete source and documentation committed to Git/GitHub under CraysCircle.
-3. Deploy-trigger inspection before push; isolated source branches where needed.
-4. Authorized AWS/Amplify build and protected preview.
-5. Exact source, commit, artifact, license/NOTICE and source-availability checks.
-6. Concrete user approval for the product release.
-7. Publication through the responsible deployment owner, with an identified rollback version.
+For the prepared shared Next.js composition, all **47 directly declared packages** have been matched to their installed versions in the specified borrowed dependency tree. Original root notice texts have been located for **45 of those packages**, using installed files and version-bound upstream sources. These intake files are not yet a completed GitHub import or a complete license clearance.
 
-The GitHub consolidation remains active throughout the server migration. Final acceptance requires the AWS owner's actual completion signal and an independent final reconciliation of the resulting sources and documentation. No legal-compliance claim is based solely on a public repository, package license field, build, screenshot or image pin.
+Two direct-package notice questions remain explicit:
+
+- **server-only 0.0.1:** its metadata declares MIT, but a corresponding original notice text has not yet been established.
+- **drizzle-kit 0.31.10:** the exact release package metadata declares MIT, while the located repository-root license is Apache-2.0. A matching package-specific original notice remains unestablished.
+
+The borrowed main package-lock.json differs from the prepared dependency tree for six direct packages; it is not accepted as this application's recovery lockfile. The installed-tree lock records the observed direct versions. Neither lock comparison nor package metadata alone proves a reproducible build.
+
+The remaining work includes the application's own rights and authorship records; transitive and bundled dependencies; Node/container/runtime notices; original copyright and modification notices; and applicable corresponding-source availability or offers. No blanket application license is assigned by inference.
+
+## Recovery and release
+
+GitHub must retain every required source revision, WIP, build input, test and technical document. Complete source recovery is not proven while the gaps above remain. Credentials, private keys, customer data, database exports and protected operating bindings belong in separately protected backups, with their restoration prerequisites documented without exposing their values.
+
+The required sequence remains: authorized development → complete GitHub source → authorized build and protected preview → exact source/artifact/license checks → concrete product-release approval → publication with a rollback version. See the [full release sequence](verification-records.md#required-release-sequence).
+
+This assignment remains active throughout the server migration. Final completion requires the AWS owner's actual completion signal and a full reconciliation of the resulting sources, versions, documentation, access and license evidence.

@@ -16,6 +16,8 @@ The [.github profile](../profile/README.md) is the organization entry point. [Th
 | A historical static website or prototype | Preserve it with its historical role clearly stated. Do not present it as the current editable or deployed application. |
 | A demonstrated independent project with no matching repository | Document the source ownership and reason for a separate repository before adding another project. |
 
+The later Next.js composition includes shared Member/SaaS and investment routes as well as the Club website. Its historical crays-platform subtree remains in the retained Gym repository. The current shared application is assigned to crays-platform; product repositories reference exact composition versions rather than duplicating the full shared tree. This is a destination decision, not a claim that the pending source import is complete.
+
 Do not rename repositories, move product directories, rewrite history or replace framework conventions merely to make names look uniform. A README can explain a mixed historical tree while the current source mapping is being resolved.
 
 ## Reading a project
@@ -39,7 +41,7 @@ All eleven known website compositions must be reconciled individually. This tabl
 
 | Website | Existing source repository relationship | Current reconciliation |
 | --- | --- | --- |
-| Club | crays-club retains the original static site; newer Club/Member composition has distinct source ancestry | Map the complete newer composition and shared inputs before calling the repository current. |
+| Club | crays-club retains the original static site; the later shared Next.js composition is assigned to crays-platform with exact product-version references | The 2,045-file prepared composition and baseline preimage are byte-verified outside GitHub; privacy, dependency, rights and publication work remain open. |
 | Gym | crays-gym retains Gym and historical platform source | Reconcile current source and WIP separately from older committed material. |
 | Coffee | crays-coffee now preserves the qualified Next.js capture and public source files | All eight recorded source states, including the two later CSS files, are preserved; media/dependency/license and earlier-history closure remain open. |
 | Shop | crays-shop preserves the qualified capture, final fallback and original reference code | Source/history/font notices verified; media/dependency/license and earlier-history closure stay open. |

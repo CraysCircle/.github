@@ -6,7 +6,12 @@ This is the navigation map for CraysCircle. It separates implementation source, 
 
 | Repository | Source role | Version guidance |
 | --- | --- | --- |
-| [crays-platform](https://github.com/CraysCircle/crays-platform) | Shared CRAYS service source. Qlo gateway, original tests and reviewed Qlo operations source, with exact provenance. | Current gateway source capture; license closure and broader platform import remain in progress. |
+| [crays-platform](https://github.com/CraysCircle/crays-platform) | Shared CRAYS service source. Qlo gateway and Clubs Commerce BFF, original tests and notices, plus reviewed gateway and Delivery operations source. | Current gateway source capture; license closure and broader platform import remain in progress. |
+
+Preserved platform components:
+- [Qlo gateway](https://github.com/CraysCircle/crays-platform/tree/main/services/qlo-gateway), with original tests.
+- [Clubs Commerce BFF](https://github.com/CraysCircle/crays-platform/tree/main/services/clubs-commerce-bff), with original build/test source and fourteen exact dependency notices.
+- [Operations](https://github.com/CraysCircle/crays-platform/tree/main/operations), with separate Qlo and Delivery source records and execution boundaries.
 
 ## Websites and web applications
 

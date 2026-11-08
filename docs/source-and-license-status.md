@@ -12,6 +12,10 @@ This page distinguishes completed source-preservation work from the remaining AW
 - The platform repository is public, with anonymous metadata and original gateway source access verified. Its [supplement commit e490404d43c400f397d2eb6e4b9f0fd62b48966b](https://github.com/CraysCircle/crays-platform/commit/e490404d43c400f397d2eb6e4b9f0fd62b48966b) preserves four original tests, the original README and reviewed Qlo account2/storage-guard programs. All fifteen supplemented source/documentation files were read back and compared byte for byte; no program was executed.
 - All twenty project descriptions and category topics have been verified. The [structure and update rules](repository-structure.md) explain how existing repositories receive newer source and how the eleven websites are tracked.
 
+- The [BFF/runtime-source capture a9e950d5403f39750dfe6fa644f7bf2aac044a10](https://github.com/CraysCircle/crays-platform/commit/a9e950d5403f39750dfe6fa644f7bf2aac044a10) preserves all nine qualified original Clubs Commerce BFF files, fourteen version-specific dependency notices and four gateway-runtime program versions. All38new/changed source, documentation and notice files were remotely byte-verified. The earlier wrapper remains preserved separately from its current revision.
+- The [Delivery source capture16e0a635282d5f5358c3e040257c9598a965655a](https://github.com/CraysCircle/crays-platform/commit/16e0a635282d5f5358c3e040257c9598a965655a) preserves the three exact Postiz operations source/public-binding files and their immutable source references. All six changed source/documentation files were remotely byte-verified. Private launch/environment/custody metadata and raw private diagnostics were excluded.
+- No captured operations program was executed. Historical test results, reviewed source candidates, actual runtime execution and license closure remain distinct.
+
 ## Public access
 
 The owner has requested public access to every source repository. Existing private repositories are being checked across their contents and Git history before their visibility changes. Secrets, private keys and personal customer data must not be exposed. The public-access work is not complete until the actual repository visibility and unauthenticated access have been verified.
@@ -24,7 +28,7 @@ The owner has requested public access to every source repository. Existing priva
 - Full source-to-commit-to-artifact mappings for the eleven website compositions and the shared/native services.
 - Required uncommitted source changes, test sources and coding/operational documentation. Source snapshots must not omit actual later changes merely because an older Git HEAD exists.
 
-Examples of known source reconciliation points include the Coffee CSS states absent from its prior commit, originally untracked BFF/gateway source files, and native/Core WIP for which metadata is not yet a content-preservation receipt. These points remain open until their actual contents and version relationships are verified.
+Examples of known source reconciliation points include the Coffee CSS states absent from its prior commit, complete later AWS source compositions and native/Core WIP for which metadata is not yet a content-preservation receipt. These points remain open until their actual contents and version relationships are verified.
 
 ## Release process
 

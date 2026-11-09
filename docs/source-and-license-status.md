@@ -79,3 +79,16 @@ The exact two Personal AWS Build02 configuration bodies and six original Python 
 The [native Core tracked-source composition](https://github.com/CraysCircle/crays-platform/tree/native-core-tracked-wip-source-20261109/apps/web/compositions/native-core-worktree-20261109) preserves 28 modifications and 28 original preimages, with exact source hashes, four immutable existing references and two protected identity templates. Its48-package lock is distinct from the shared application set. The 453-commit history and required untracked source, complete notices and current runtime mapping remain open.
 
 The [Club Build38 composition](https://github.com/CraysCircle/crays-platform/tree/club-source38-preserved-20261109/apps/web/compositions/club-source38) preserves all 2,045 effective input relationships, reusing 2,044 exact existing files and adding the original RDS adapter. The original finite build controller, declared pool overlay/preimage, framework build ID oBGvsXCd08tp4gsMwOOo5 and 3,554 original compiled-file pins remain separate records. Anonymous restoration compared every input with its recorded original. This closes this specific source gap; compiled-output equality, runtime adoption, dependency/media recovery and full legal clearance remain unproven.
+
+## Direct notice evidence by captured source scope
+
+| Captured source scope | Direct packages | Packages with located root notice text | Remaining direct notice questions |
+| --- | --- | --- | --- |
+| Prepared shared Next.js source | 47 | 45 | server-only 0.0.1; drizzle-kit 0.31.10 |
+| Distinct native Core worktree | 48 | 47 | drizzle-kit 0.31.10 |
+
+The [Core source record](https://github.com/CraysCircle/crays-platform/tree/native-core-armor-notices-20261109/apps/web/compositions/native-core-worktree-20261109) preserves all 48 original installed package manifests and 41 installed original notice-file observations, with immutable reuse of 81 already-public original bodies. Eight newly needed original bodies were added in the first dependency capture. Five previously qualified upstream package relationships cover three additional root text files.
+
+For GraphQL Armor cost-limit 2.4.3, max-depth 2.4.2 and max-tokens 2.5.1, exact npm integrity metadata matches the original Core lock. Their publisher gitHead commits contain the exact original package names, versions, MIT declarations and byte-identical already-public manifests. The two applicable source commits have the same original root LICENSE and copyright, with no applicable nested notice in the inspected package/ancestor paths. One unchanged root text is preserved with all three source-version relationships. This brings the Core direct-package root-text count to 47; it does not establish full legal compliance or close transitive, bundled, runtime, asset and corresponding-source obligations.
+
+The drizzle-kit discrepancy remains explicit: package-specific MIT metadata does not establish the matching original notice while the located repository-root text is Apache-2.0. No license text, copyright holder/year or license grant is filled in by inference.

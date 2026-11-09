@@ -28,6 +28,8 @@ The [Personal React/Vite application](https://github.com/CraysCircle/crays-platf
 
 Personal Build02 configuration bodies stay under apps/personal/aws-build02, separate from the unchanged original configuration in source. Three original build-controller revisions and their lease/artifact/adoption helper source stay under operations/personal-build. Four generated food illustration bodies are now retained at their original source paths with their original source-authority record; 50 other source images still need custody/publication review.
 
+The Club Next listener, original bootstrap template and native-origin/private-TLS configuration fragments stay under services/club-next-runtime. Their controllers, original patches and acceptance-program source stay under operations/club-next-runtime. Later Common-origin35 completion/adoption revisions extend the existing operations/member-origin35/adoption area. The exact sources are recorded separately from private credential/certificate bodies and live owner controls.
+
 ## Reading a project
 
 Each project needs a concise README explaining purpose, intended readers, implementation location, related services and its current source/release status. From there, readers should reach:

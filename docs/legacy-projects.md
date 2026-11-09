@@ -9,7 +9,7 @@ This page keeps older repositories discoverable without presenting them as the c
 | [Twenty](https://github.com/CraysWorld/twenty) | Historical CRM fork; the owner has confirmed it is no longer used. | For current business/finance integrations, start with the [platform service hub](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/README.md). This is not a claim that every former CRM feature has been replaced. |
 | [OpenProject](https://github.com/CraysWorld/openproject) | Historical project-management fork; the owner has confirmed it is no longer used. | [Plane within Work](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/plane.md) is the canonical current project-integration entry. |
 
-The original repositories, history and license terms remain intact. This classification does not delete or rewrite their source and does not claim that a repository has been formally archived in GitHub.
+Both Twenty and OpenProject are now archived on GitHub and remain public and read-only. Their original source, branch and tag history, upstream fork relationships, licenses and notices are unchanged. For current CRAYS work and contributions, follow the platform service links above.
 
 ## Upstream references are not complete CRAYS products
 

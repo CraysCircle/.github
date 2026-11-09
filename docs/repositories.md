@@ -73,8 +73,8 @@ The [eleven-website map](repository-structure.md#eleven-website-compositions) co
 | --- | --- | --- |
 | [calendar](https://github.com/CraysWorld/calendar) | Fork of nextcloud/calendar. | Original upstream relationship and Git history retained. |
 | [crm](https://github.com/CraysWorld/crm) | Fork of frappe/crm. | Original upstream relationship and Git history retained. |
-| [openproject](https://github.com/CraysWorld/openproject) | Historical fork, no longer used in the current CRAYS stack; retained with original history and license. See [legacy projects](legacy-projects.md). | Original upstream relationship and Git history retained. |
-| [twenty](https://github.com/CraysWorld/twenty) | Historical fork, no longer used in the current CRAYS stack; retained with original history and license. See [legacy projects](legacy-projects.md). | Original upstream relationship retained; component-specific license terms must be respected. |
+| [openproject](https://github.com/CraysWorld/openproject) | Archived public, read-only historical fork; no longer used in the current CRAYS stack. See [legacy projects](legacy-projects.md). | Original upstream relationship, Git history, licenses and notices retained unchanged. |
+| [twenty](https://github.com/CraysWorld/twenty) | Archived public, read-only historical fork; no longer used in the current CRAYS stack. See [legacy projects](legacy-projects.md). | Original upstream relationship, Git history, licenses and notices retained unchanged; component-specific terms remain authoritative. |
 | [primal-web-app](https://github.com/CraysWorld/primal-web-app) | Fork of Chandan-codedidea/primal-web-app. | Separate upstream reference; not a substitute for the exact CRAYS deployed source. |
 
 ## How to find an exact AWS version

@@ -30,6 +30,8 @@ Preserved platform components:
 
 ## Websites and web applications
 
+The [eleven-website map](repository-structure.md#eleven-website-compositions) covers **Club, Gym, Coffee, Shop, Pro, Net, Org, Fund, World, Award and Fun**. Website compositions and repository counts are different: some experiences use shared platform code, while Award and Fun still have unresolved source destinations. Use that map to choose the website, then follow the repository and component links below.
+
 | Repository | Source role | Version guidance |
 | --- | --- | --- |
 | [crays-club](https://github.com/CraysCircle/crays-club) | Retained original Club static website source. | The selected later shared Next.js source is preserved in [crays-platform/apps/web](https://github.com/CraysCircle/crays-platform/tree/main/apps/web); current deployment and later overlays require their exact version records. |

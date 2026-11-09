@@ -22,10 +22,10 @@ We build the CRAYS-specific experience and integration code while keeping the un
 
 The [platform service hub](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/README.md) explains the role of each system and points to the actual CRAYS implementation:
 
-- **Frappe / ERPNext:** finance and company-scoped business workflows, including the CRAYS commerce-to-ERP adapters.
-- **Nextcloud:** files, member documents and collaboration, with CRAYS access and reconciliation adapters.
-- **Plane:** the canonical project and work-item area within Work, with delivery contracts and signed-webhook handling.
-- **Qlo:** hospitality requests and accommodation operations, connected through the CRAYS gateway and Work integration.
+- **[Frappe / ERPNext](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/frappe.md):** finance and company-scoped business workflows, including the CRAYS commerce-to-ERP adapters.
+- **[Nextcloud](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/nextcloud.md):** files, member documents and collaboration, with CRAYS access and reconciliation adapters.
+- **[Plane](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/plane.md):** the canonical project and work-item area within Work, with delivery contracts and signed-webhook handling.
+- **[Qlo](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/qlo.md):** hospitality requests and accommodation operations, connected through the CRAYS gateway and Work integration.
 - **Commerce, identity and the wider ecosystem:** Vendure, account boundaries, Personal/Chuck, Gym, Nostr and delivery tooling, each documented in the same hub.
 
 Personal, Member and Work are related parts of the ecosystem with separate responsibilities. An integration's presence in the source tree does not mean every user journey is already complete; the component guides explain what is implemented and what is still being connected.
@@ -33,6 +33,8 @@ Personal, Member and Work are related parts of the ecosystem with separate respo
 ## Build with us
 
 We welcome developers who want to improve useful connections between open systems. Current contribution directions include account-boundary tests, document access, ERP event mapping, project webhooks, hospitality adapters, accessibility and clearer developer documentation.
+
+**A small first contribution:** follow the [Qlo projection-test walkthrough](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/qlo.md#first-local-check-the-two-projection-tests), then add a synthetic invalid-input case using the [contributor exercise](https://github.com/CraysCircle/crays-platform/blob/main/CONTRIBUTING.md#a-small-first-test). These two local projection checks need Node.js and the source checkout, without provider credentials or running a live service.
 
 Start with [the contributor guide](https://github.com/CraysCircle/crays-platform/blob/main/CONTRIBUTING.md). It explains how to choose a component, find its real setup instructions, propose a focused change and show that it works. You can also use [platform issues](https://github.com/CraysCircle/crays-platform/issues) to discuss a concrete problem before writing code.
 

@@ -15,6 +15,8 @@ Preserved platform components:
 - [Qlo gateway](https://github.com/CraysCircle/crays-platform/tree/main/services/qlo-gateway), with original tests.
 - [Clubs Commerce BFF](https://github.com/CraysCircle/crays-platform/tree/main/services/clubs-commerce-bff), with original build/test source and fourteen exact dependency notices.
 - [Member source25 compositions](https://github.com/CraysCircle/crays-platform/tree/main/apps/web/compositions/member-source25), preserving the complete original and AWS input views with a source-only reconstruction tool and protected test-input templates. The [version evidence](https://github.com/CraysCircle/crays-platform/tree/main/apps/web/provenance/member-source25) links their recorded build, original lock and existing notice catalog.\n- [Shared web operational programs](https://github.com/CraysCircle/crays-platform/tree/main/apps/web/scripts), with original baseline/worktree records, 90 referenced programs, two imported modules and explicit four-file provenance limits.
+- [Work/Qlo runtime](https://github.com/CraysCircle/crays-platform/tree/main/services/work-qlo-runtime), with its original bootstrap and four local modules, separately from the underlying application and its still-open runtime/asset source relationships.
+- [Qlo/Work operating-source revisions](https://github.com/CraysCircle/crays-platform/tree/main/operations/qlo-work-family), with historical/current-family/start-only revisions, original patches and binding-check source; the existing storage guard is linked without duplication.
 - [Operations](https://github.com/CraysCircle/crays-platform/tree/main/operations), with separate Qlo and Delivery source records and execution boundaries.
 
 ## Websites and web applications

@@ -12,7 +12,8 @@ Preserved platform components:
 
 - [Shared Next.js application](https://github.com/CraysCircle/crays-platform/tree/main/apps/web), containing Club, Member/SaaS and investment routes, original integration source, dependency notices and recovery instructions.
 
-- [Personal web application](https://github.com/CraysCircle/crays-platform/tree/main/apps/personal), with original 1,486-file and 13-overlay/1,489-file compositions, 1,435 current text inputs, ten preimages, exact dependency notices and source restoration. The 54 image bodies and protected owner input remain separate.
+- [Personal web application](https://github.com/CraysCircle/crays-platform/tree/main/apps/personal), with original 1,486-file and 13-overlay/1,489-file compositions, 1,435 current text inputs, ten preimages, exact dependency notices and source restoration. Four original generated food illustrations are now preserved; 50 remaining image bodies and the protected owner input are still separate.
+- [Personal build operations](https://github.com/CraysCircle/crays-platform/tree/main/operations/personal-build), retaining three original controller revisions, a lease adapter, artifact inspection and adoption-plan programs, plus the exact [AWS Build02 configuration bodies](https://github.com/CraysCircle/crays-platform/tree/main/apps/personal/aws-build02).
 - [Qlo gateway](https://github.com/CraysCircle/crays-platform/tree/main/services/qlo-gateway), with original tests.
 - [Clubs Commerce BFF](https://github.com/CraysCircle/crays-platform/tree/main/services/clubs-commerce-bff), with original build/test source and fourteen exact dependency notices.
 - [Club/Member browser module](https://github.com/CraysCircle/crays-platform/tree/main/modules/club-member), with exact original/origin35 source views, build and dependency records, original notices and protected source restoration. This is the separately built Common-shell client; the Next application remains under apps/web.

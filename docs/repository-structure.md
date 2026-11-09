@@ -26,6 +26,8 @@ The separately built [Club/Member browser module](https://github.com/CraysCircle
 
 The [Personal React/Vite application](https://github.com/CraysCircle/crays-platform/tree/main/apps/personal) is preserved under apps/personal in the existing platform repository. Its original package is crays-unified-web-personal. The original output-folder source was not tracked at its original path; an exact GitHub tree comparison found only 17 current blobs in the retained historical Gym tree. The source archive therefore retains its actual baseline and ten preimages, with the 13 changes recorded explicitly. This source composition includes Gym/Personal/Member views without claiming complete current-source coverage of those products.
 
+Personal Build02 configuration bodies stay under apps/personal/aws-build02, separate from the unchanged original configuration in source. Three original build-controller revisions and their lease/artifact/adoption helper source stay under operations/personal-build. Four generated food illustration bodies are now retained at their original source paths with their original source-authority record; 50 other source images still need custody/publication review.
+
 ## Reading a project
 
 Each project needs a concise README explaining purpose, intended readers, implementation location, related services and its current source/release status. From there, readers should reach:
@@ -48,7 +50,7 @@ All eleven known website compositions must be reconciled individually. This tabl
 | Website | Existing source repository relationship | Current reconciliation |
 | --- | --- | --- |
 | Club | crays-club retains the original static site; the later shared Next.js composition is assigned to crays-platform with exact product-version references | The 2,045 selected original files and baseline are publicly byte-verified in crays-platform/apps/web. A supplemental capture preserves 90 operational programs and two imported helpers; four programs remain under contact/fixture provenance review. Later overlays, execution inputs, full dependencies, assets and rights/recovery closure remain open. |
-| Gym | crays-gym retains Gym and historical platform source; crays-platform/apps/personal preserves the captured shared frontend including Gym views | Exact Personal baseline/13-overlay text sources and ten preimages are public. The 54 image bodies, later Gym/WIP, full runtime/dependency and rights/recovery closure remain open. |
+| Gym | crays-gym retains Gym and historical platform source; crays-platform/apps/personal preserves the captured shared frontend including Gym views | Exact Personal baseline/13-overlay text sources and ten preimages are public. The remaining 50 image bodies, later Gym/WIP, full runtime/dependency and rights/recovery closure remain open. |
 | Coffee | crays-coffee now preserves the qualified Next.js capture and public source files | All eight recorded source states, including the two later CSS files, are preserved; media/dependency/license and earlier-history closure remain open. |
 | Shop | crays-shop preserves the qualified capture, final fallback and original reference code | Source/history/font notices verified; media/dependency/license and earlier-history closure stay open. |
 | Pro | crays-pro preserves the qualified public website and final menu/login fix | Source/history verified; other Pro systems, media/dependency/runtime and rights acceptance remain separate. |

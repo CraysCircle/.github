@@ -6,11 +6,14 @@ CRAYS develops software connecting members, guests and venue operators: personal
 
 Project repositories, shared implementations and retained upstream forks have different roles. Their detailed source/version records remain linked below.
 
+The organization currently contains **25 repositories: 19 public and 6 private**. Private repository links require authorized access and may return 404 to other readers.
+
 ## Shared application and platform services
 
 | Repository | Source role | Version guidance |
 | --- | --- | --- |
 | [crays-platform](https://github.com/CraysWorld/crays-platform) | Shared Next.js application under apps/web, Personal React/Vite application under apps/personal, Qlo gateway and Clubs Commerce BFF under services, hosting wrappers, and reviewed migration operations. | Exact application baseline/prepared-state tags and separate service/version records. Later source overlays, recovery inputs and full license closure remain in progress. |
+| [crays-openclaw](https://github.com/CraysWorld/crays-openclaw) — **private** | DEV integration repository for four owner capsules: Web runtime, Web UI, Nostr transport and Personal Intelligence. | Source handoff capsules, not an upstream OpenClaw fork or a qualified standalone build root. Repository access does not establish a public source or license release; see each capsule’s source and recovery boundaries. |
 
 Preserved platform components:
 

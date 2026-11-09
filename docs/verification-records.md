@@ -36,3 +36,15 @@ These records preserve the exact commits and scopes of completed checks. See the
 7. Publication through the responsible deployment owner, with an identified rollback version.
 
 The GitHub consolidation remains active throughout the server migration. Final acceptance requires the AWS owner's actual completion signal and an independent final reconciliation of the resulting sources and documentation. No legal-compliance claim is based solely on a public repository, package license field, build, screenshot or image pin.
+
+
+## Shared Next.js source capture — 9 November 2026
+
+The existing crays-platform repository now preserves the selected shared web application in apps/web. Its original historical Gym subtree remains retained. These source records do not establish current deployment, complete history, full recovery or license clearance.
+
+- [Original selected baseline cbe2fe2](https://github.com/CraysCircle/crays-platform/commit/cbe2fe2b8784597640ad74ba0abd9c4ba7c3d3ea), tagged shared-web-source-baseline-20261108, retains all 2,045 original selected files.
+- [Prepared source 2d6b7d1](https://github.com/CraysCircle/crays-platform/commit/2d6b7d12104b28058a519cc6d8852aec1b44e78c), tagged shared-web-source-state24-20261108, retains the declared one-line application change and all five original integration files. The capture date is 8 November; publication and readback completed on 9 November.
+- A fresh anonymous GitHub clone verified both annotated tags and 4,199 file comparisons: 2,154 new or changed current files plus 2,045 baseline original source files, each checked by byte count and SHA-256. Original mixed line endings and WIP filenames were preserved.
+- [Readback ledger and checkout guidance f78dfd2](https://github.com/CraysCircle/crays-platform/commit/f78dfd206173f8bda9c557d356bed24ac9e5c5f4) adds the public proof, exact checkout instructions and byte-preserving Git attributes. Its three changed files were separately verified from GitHub.
+- Dependency provenance retains 47 original package manifests, 45 original notice files and two observed locks. Original notice texts were located for 45 of 47 direct packages; server-only and drizzle-kit questions remain explicit. The borrowed main lock differs for six direct versions and is not a qualified application recovery lock.
+- The 94 referenced operational helper paths, later AWS variants and other recovery/rights gaps remain visible in the application recovery records and central status page. Source publication did not execute product programs or perform a build/deployment.

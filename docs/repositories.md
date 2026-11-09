@@ -2,13 +2,15 @@
 
 This is the navigation map for CraysCircle. It separates implementation source, website snapshots, mobile projects, documentation and upstream forks. These roles are based on the inspected repository trees and existing migration source evidence; a role is not a functional acceptance result.
 
-## Platform services
+## Shared application and platform services
 
 | Repository | Source role | Version guidance |
 | --- | --- | --- |
-| [crays-platform](https://github.com/CraysCircle/crays-platform) | Shared CRAYS service source. Qlo gateway and Clubs Commerce BFF, original tests and notices, plus reviewed gateway and Delivery operations source. | Current gateway source capture; license closure and broader platform import remain in progress. |
+| [crays-platform](https://github.com/CraysCircle/crays-platform) | Shared Next.js application under apps/web, Qlo gateway and Clubs Commerce BFF under services, hosting wrappers, and reviewed migration operations. | Exact application baseline/prepared-state tags and separate service/version records. Later source overlays, recovery inputs and full license closure remain in progress. |
 
 Preserved platform components:
+
+- [Shared Next.js application](https://github.com/CraysCircle/crays-platform/tree/main/apps/web), containing Club, Member/SaaS and investment routes, original integration source, dependency notices and recovery instructions.
 
 - [Qlo gateway](https://github.com/CraysCircle/crays-platform/tree/main/services/qlo-gateway), with original tests.
 - [Clubs Commerce BFF](https://github.com/CraysCircle/crays-platform/tree/main/services/clubs-commerce-bff), with original build/test source and fourteen exact dependency notices.
@@ -18,7 +20,7 @@ Preserved platform components:
 
 | Repository | Source role | Version guidance |
 | --- | --- | --- |
-| [crays-club](https://github.com/CraysCircle/crays-club) | Retained original Club static website source. | A newer AWS Club composition must be mapped separately. |
+| [crays-club](https://github.com/CraysCircle/crays-club) | Retained original Club static website source. | The selected later shared Next.js source is preserved in [crays-platform/apps/web](https://github.com/CraysCircle/crays-platform/tree/main/apps/web); current deployment and later overlays require their exact version records. |
 | [crays-coffee](https://github.com/CraysCircle/crays-coffee) | Qualified Coffee Next.js capture and original public source files. | Exact eight-file source state preserved; remaining media/dependency/license and earlier-history closure stays explicit. |
 | [crays-shop](https://github.com/CraysCircle/crays-shop) | Qualified storefront, original public source and Store/worker references. | Three-commit capture, 466 selected source/build/reference files and original font notices verified; remaining media/dependency/license/earlier-history scope stays explicit. |
 | [crays-pro](https://github.com/CraysCircle/crays-pro) | Qualified public Pro website; crays-franchise component paths retain their original names. | Two-commit capture and 89 selected sources verified; Franchise Manager and Targomo runtime acceptance are separate. |

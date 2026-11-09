@@ -18,6 +18,7 @@ As checked on 8 November 2026, **19 repositories are public and five remain priv
 
 | Component | Verified source coverage | Remaining limits |
 | --- | --- | --- |
+| Shared Next.js application | 2,045 original selected files in [crays-platform/apps/web](https://github.com/CraysCircle/crays-platform/tree/main/apps/web), with exact baseline and prepared-state tags, five original integration files and version-bound dependency records | Current AWS overlays, 94 referenced operational helper paths, a qualified application lockfile, media, complete history and full rights/recovery closure remain open. |
 | Qlo gateway | Original service/build files, original README and four test files in [crays-platform](https://github.com/CraysCircle/crays-platform/tree/main/services/qlo-gateway) | Runtime/dependency notices and full rights closure remain open; captured tests were not freshly executed. |
 | Clubs Commerce BFF | Nine original files and fourteen original dependency notices in [crays-platform](https://github.com/CraysCircle/crays-platform/tree/main/services/clubs-commerce-bff) | Full application/image licensing and deployment acceptance remain separate. |
 | Migration operations | Selected Qlo, storage, Postiz and [Neon → RDS](https://github.com/CraysCircle/crays-platform/tree/main/operations/neon-rds) sources | Programs retain protected inputs and historical assumptions. Six RDS files are templates; reconstruction of twelve originals was verified privately. |
@@ -32,8 +33,8 @@ Each listed capture was read back from GitHub and checked against its recorded s
 
 | Source area | Current evidence and next requirement |
 | --- | --- |
-| Club and shared Next.js composition | 2,045 selected files plus the baseline preimage of a separately declared one-line change are staged and byte-verified outside GitHub. Privacy review and publication remain pending. The five original integration files are included. |
-| Shared-source destination | The retained Gym repository contains the historical crays-platform subtree. Of the selected later files, 593 have identical paths and bytes there, 24 have changed at the same paths and 1,428 have new paths. The later composition includes Club, Member/SaaS and investment routes. The shared application is assigned centrally to crays-platform, with product-specific version references; this does not mean its code has already been published there. The original Gym history remains retained. |
+| Club and shared Next.js composition | 2,045 selected original files and their baseline are public in crays-platform/apps/web. Anonymous readback verified 2,154 new or changed current files and 2,045 baseline source files against their original bytes. The prepared state adds one declared source line; it does not establish a new deployment. |
+| Shared-source destination | The retained Gym repository contains the historical crays-platform subtree. Of the selected later files, 593 have identical paths and bytes there, 24 have changed at the same paths and 1,428 have new paths. The later composition includes Club, Member/SaaS and investment routes. The selected shared application is now published centrally in crays-platform/apps/web, with exact baseline and prepared-state tags. Product references must distinguish this capture from later AWS overlays. The original Gym history remains retained. |
 | Other website compositions | The [eleven-site table](repository-structure.md#eleven-website-compositions) tracks each website. Org supplements, editable Fund/Fun sources and other current source/version gaps remain open. Redirects and historical variants require their own records. |
 | Personal, Member, native/Core and iOS | Required current source, later overlays, distinct WIP, tests and coding/operations documents must be preserved beyond older Git commits and metadata inventories. |
 
@@ -41,7 +42,7 @@ The prepared Club source is not a successful new build or deployment. It must no
 
 ## Dependency and license work
 
-For the prepared shared Next.js composition, all **47 directly declared packages** have been matched to their installed versions in the specified borrowed dependency tree. Original root notice texts have been located for **45 of those packages**, using installed files and version-bound upstream sources. These intake files are not yet a completed GitHub import or a complete license clearance.
+For the prepared shared Next.js composition, all **47 directly declared packages** have been matched to their installed versions in the specified borrowed dependency tree. Original root notice texts have been located for **45 of those packages**, using installed files and version-bound upstream sources. The 47 original package manifests, 45 original notice files and two observed dependency locks are now preserved in apps/web. Located notice texts are not complete license clearance.
 
 Two direct-package notice questions remain explicit:
 
@@ -51,6 +52,8 @@ Two direct-package notice questions remain explicit:
 The borrowed main package-lock.json differs from the prepared dependency tree for six direct packages; it is not accepted as this application's recovery lockfile. The installed-tree lock records the observed direct versions. Neither lock comparison nor package metadata alone proves a reproducible build.
 
 The remaining work includes the application's own rights and authorship records; transitive and bundled dependencies; Node/container/runtime notices; original copyright and modification notices; and applicable corresponding-source availability or offers. No blanket application license is assigned by inference.
+
+The captured package manifest references **94 distinct operational helper paths** that are absent from this selected source set and its recorded baseline. Their actual qualified source versions and the remaining technical documents must be preserved before full recovery can be claimed. No operational helper or application program was executed during this source publication.
 
 ## Recovery and release
 

@@ -16,34 +16,346 @@ As checked on 8 November 2026, **19 repositories are public and five remain priv
 
 “Preserved” below applies to the stated capture, not to every later source version, dependency, media asset or license obligation.
 
-| Component | Verified source coverage | Remaining limits |
-| --- | --- | --- |
-| Shared Next.js application | 2,045 original selected files in [crays-platform/apps/web](https://github.com/CraysWorld/crays-platform/tree/main/apps/web), with exact baseline and prepared-state tags, five original integration files and version-bound dependency records | Current AWS overlays, four operational programs under fixture/contact provenance review, a qualified application lockfile, media, complete history and full rights/recovery closure remain open. |
-| Personal application and Chuck owner-consumer | [Original baseline and 13-overlay source compositions](https://github.com/CraysWorld/crays-platform/tree/main/apps/personal): 1,435 current text inputs, ten preimages, 30 exact direct package metadata records, 31 original notice files and eleven original generated image inputs. The [54-entry image map](https://github.com/CraysWorld/crays-platform/tree/main/apps/personal/provenance/images) records all original paths and current source evidence. A separate [private owner-consumer snapshot](https://github.com/CraysWorld/crays-gym/blob/6d943ccbfa4cc3d2ba9f80705e2e90a5a1e3ba47/protected-source-archives/chuck-original-owner-consumer54/README.md) preserves six originals (415,148 bytes), including the unchanged third-party notices, with an [exact source/version and restoration map](https://github.com/CraysWorld/crays-gym/blob/6d943ccbfa4cc3d2ba9f80705e2e90a5a1e3ba47/protected-source-archives/chuck-original-owner-consumer54/source-capture.json). The [private preferred-source snapshot](https://github.com/CraysWorld/crays-gym/blob/6d06d21265d49d3cd2526963689b13295995e3ed/protected-source-archives/chuck-build64-preferred-fifteen/README.md) adds fifteen editable originals (114,701 bytes); its [restoration map](https://github.com/CraysWorld/crays-gym/blob/6d06d21265d49d3cd2526963689b13295995e3ed/protected-source-archives/chuck-build64-preferred-fifteen/source-capture.json) also references seven already-public inputs (70,376 bytes), for 22 application-code inputs (185,077 bytes). These snapshot links require private repository access. Both compiled snapshots retain the original package notices and PostgreSQL COPYRIGHT: the separate [prepared builder/pool/bundle snapshot](https://github.com/CraysWorld/crays-gym/blob/a820ef2134a27e1f61401ce82d414e183c19d21d/protected-source-archives/chuck-consumer54-build-recipe/README.md) preserves five source artifacts without replacing the original six or the 22-input application map. The [public selected dependency snapshot](https://github.com/CraysWorld/crays-platform/blob/3cd6831a2e94af8b22b9734a0ca85346860668d0/third-party/chuck-owner-consumer54/README.md) adds 40 installed source inputs (177,251 bytes), fourteen package manifests, 26 original notice files and the PostgreSQL COPYRIGHT supplement, with a [notice index](https://github.com/CraysWorld/crays-platform/blob/3cd6831a2e94af8b22b9734a0ca85346860668d0/third-party/chuck-owner-consumer54/NOTICE.md). The separately captured [esbuild 0.28.1 toolchain](https://github.com/CraysWorld/crays-gym/blob/e20ee8e2cefca769ee2c817c7f8d3cdb06a252bc/protected-source-archives/chuck-esbuild0281-toolchain/README.md) and [artifact/restoration map](https://github.com/CraysWorld/crays-gym/blob/e20ee8e2cefca769ee2c817c7f8d3cdb06a252bc/protected-source-archives/chuck-esbuild0281-toolchain/source-capture.json) require private repository access and preserve seven original artifacts (11,510,423 bytes), including the wrapper, manifests, Linux x64 executable and original MIT/README texts. | Latest anonymous readback verified every one of the 1,535 published Personal-directory files. Both full source views restored with all 2,975 independent original comparisons passing. Forty-three image input paths (40 distinct bodies), the protected owner input, original fontkit notice, dependencies beyond the selected build inputs, complete upstream packages, external SDK/Node dependencies, preferred compiler source and assets, current runtime adoption and full rights/recovery closure remain open. One isolated GitHub-to-AWS source recovery verified all 63 non-private original BUILD input paths (362,328 bytes), including the unchanged 2,570-byte loader, plus 41 separately counted package/notice files (69,475 bytes). The protected 9,220-byte binding JSON was excluded. Executable compiler custody establishes neither complete preferred compiler source nor a reproduced build; pristine registry-byte identity and complete 64-input/runnable recovery remain unproven. |
-| Club/Member browser module | [Original and origin35 133-file input views](https://github.com/CraysWorld/crays-platform/tree/main/modules/club-member), including the exact origin-predicate change, recorded build binding, original notices and source-only restoration | Both views were restored from anonymous GitHub plus the protected owner input: all 266 original comparisons passed. Common-shell/current runtime adoption, original assets, native compiler notice/source questions and full rights/recovery remain open. |
-| Member Next application inputs | [Original 1,399-file and AWS 1,401-file source compositions](https://github.com/CraysWorld/crays-platform/tree/main/apps/web/compositions/member-source25), using an immutable common baseline, original changed source bodies and protected test-input templates | Both complete source views were restored from anonymous GitHub plus separately backed-up owner inputs, with all 2,800 original file comparisons passing. Later runtime variants, integration, other WIP/docs, assets and full rights/recovery closure remain open. |
-| Qlo gateway | Original service/build files, original README and four tests in [crays-platform](https://github.com/CraysWorld/crays-platform/tree/main/services/qlo-gateway). The nine identified CRAYS-owned code/build/test revisions have an explicit [AGPL-3.0-only grant](https://github.com/CraysWorld/crays-platform/blob/main/services/qlo-gateway/LICENSING.md) from CRAYS AG. | Exact runtime/dependency notices and complete source/recovery obligations remain open; captured tests were not freshly executed. |
-| Clubs Commerce BFF | Nine original files and fourteen dependency notices in [crays-platform](https://github.com/CraysWorld/crays-platform/tree/main/services/clubs-commerce-bff). The six identified CRAYS-owned code/build/test revisions have an explicit [AGPL-3.0-only grant](https://github.com/CraysWorld/crays-platform/blob/main/services/clubs-commerce-bff/LICENSING.md). | Dependency and upstream terms remain original; exact runtime/base-image licensing, full recovery and deployment acceptance remain separate. |
-| Pure80 BFF build and probe sources | [Two original operation programs](https://github.com/CraysWorld/crays-platform/tree/bff-pure80-original-source-20261109/operations/clubs-commerce-bff/pure80-source-revision01), totaling 42,474 bytes, with exact source-field/version and embedded-probe provenance. | The two exact CRAYS-owned revisions, including the embedded test string, now have a separate [AGPL-3.0-only grant from CRAYS AG](https://github.com/CraysWorld/crays-platform/blob/bff-pure80-own-ops-agpl3-only-20261109/operations/clubs-commerce-bff/pure80-source-revision01/LICENSING.md), bound to the actual source-author confirmation. The existing six-file BFF component grant and imported implementation terms remain separate. No image parity, executed probe, build or customer acceptance is claimed. |
-| Shared web operational helpers | 90 referenced programs and two imported modules in [apps/web/scripts](https://github.com/CraysWorld/crays-platform/tree/main/apps/web/scripts), with historical baseline and exact two-file worktree tags; four additional [protected source views](https://github.com/CraysWorld/crays-platform/tree/shared-web-four-protected-source-20261109/source-archives/shared-web/four-protected-operational-helpers-20261109) | Raw contact/fixture origins for the four templates remain unresolved; exact originals stay recoverable from the existing private GitHub repository. The checked in-memory restorer is separately AGPL-3.0-only; no new license is inferred for the four original/template programs. Runtime compatibility, external inputs and complete rights/recovery remain open; none of the original programs were executed. |
-| Migration operations | Selected [Personal build/helper programs](https://github.com/CraysWorld/crays-platform/tree/main/operations/personal-build), [Club/Member capture/build/adoption programs](https://github.com/CraysWorld/crays-platform/tree/main/operations/member-origin35), [Qlo/Work runtime-family revisions and original patches](https://github.com/CraysWorld/crays-platform/tree/main/operations/qlo-work-family), Qlo/storage/Postiz programs and [Neon → RDS](https://github.com/CraysWorld/crays-platform/tree/main/operations/neon-rds) sources. The [four Original30 role-preparation sources](https://github.com/CraysWorld/crays-platform/blob/original30-grantee-preparation-source-agpl-20261109/operations/neon-rds/original30-grantee-preparation-revision02/README.md) add 52,167 unchanged bytes with their [own CRAYS AG AGPL-3.0-only scope](https://github.com/CraysWorld/crays-platform/blob/original30-grantee-preparation-source-agpl-20261109/operations/neon-rds/original30-grantee-preparation-revision02/LICENSING.md). | Programs retain protected inputs and historical assumptions. Six RDS files are templates; reconstruction of twelve originals was verified privately. Original30 describes technical NOLOGIN grantees, not LOGIN/authentication parity, consumer activation or restore acceptance. |
-| Member document-provider build and lifecycle sources | [Build revision02](https://github.com/CraysWorld/crays-platform/tree/member-document-provider51-build-rev02-source-agpl-20261109/operations/member-document-provider51/build-revision02) preserves two originals (14,954 bytes); [lifecycle revision01](https://github.com/CraysWorld/crays-platform/tree/member-document-provider51-lifecycle-source-agpl-20261109/operations/member-document-provider51/lifecycle-revision01) preserves five originals (84,208 bytes), with exact existing-helper references. | Each group has its own exact CRAYS AG AGPL-3.0-only scope. These grants cover the listed operation programs, not the separately preserved selector, unchanged helpers, application or dependencies. Source publication is separate from build/adoption results and genuine customer document acceptance. |
-| Member51 Forward02 and ingress | [Four exact current-revision programs](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-forward02-source-agpl-20261109/operations/member-document-provider51/forward-revision02/README.md), 75,294 bytes, with [original-path restoration map](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-forward02-source-agpl-20261109/operations/member-document-provider51/forward-revision02/source-capture.json) | [CRAYS AG AGPL-3.0-only scope](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-forward02-source-agpl-20261109/operations/member-document-provider51/forward-revision02/LICENSING.md) covers these four programs. Initial lifecycle/build sources, selector and imported helpers keep separate scopes; source verification does not establish customer acceptance or complete runtime/recovery. |
-| Member51 historical recovery revisions01–03 | [Five separately retained predecessor programs](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-historical01-03-source-agpl-20261109/operations/member-document-provider51/historical-revisions01-03/README.md), 75,186 bytes, with [original-path restoration map](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-historical01-03-source-agpl-20261109/operations/member-document-provider51/historical-revisions01-03/source-capture.json) | [Separate CRAYS AG AGPL-3.0-only scope](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-historical01-03-source-agpl-20261109/operations/member-document-provider51/historical-revisions01-03/LICENSING.md) covers only these five versions. They are historical source, not approved replay instructions or proof that each revision executed. Dependency, rights and full recovery boundaries remain open. |
-| Vendure provider operating and verifier sources | [Ten original operating and verifier programs](https://github.com/CraysWorld/crays-platform/tree/vendure-own-ops-agpl3-only-20261109/operations/vendure-native-provider-integration), totaling 215,470 bytes, with anonymous source-byte verification. | The exact CRAYS-owned revisions and fourteen mapped nested own-code regions have a [scoped AGPL-3.0-only grant from CRAYS AG](https://github.com/CraysWorld/crays-platform/blob/vendure-own-ops-agpl3-only-20261109/operations/vendure-native-provider-integration/LICENSING.md). Vendure/framework implementations retain upstream terms; complete image/dependency source, notices, runtime adoption and recovery remain separate. Private launch/environment inputs are excluded. |
-| Vendure preferred TypeScript input | [The exact 3,574-byte authored source field](https://github.com/CraysWorld/crays-platform/tree/vendure-original-typescript-source-agpl-20261109/operations/vendure-native-provider-integration/preferred-source07-rev04) is now public with its immutable compiler-input relationship. | This one CRAYS-owned revision has a separate scoped AGPL-3.0-only grant. Its original filesystem filename is unknown; the preservation filename does not invent one. No new compilation, upstream relicensing or runtime acceptance is established. |
-| Nextcloud access-purpose52 source | [Four own source revisions](https://github.com/CraysWorld/crays-platform/blob/nextcloud-purpose52-source-agpl-20261109/operations/nextcloud-access-purpose52/README.md), 96,671 original bytes: pool/function pins unchanged, two SQL views protecting 16 occurrences of one account-linked fingerprint; [exact private original recovery map](https://github.com/CraysWorld/crays-platform/blob/nextcloud-purpose52-source-agpl-20261109/operations/nextcloud-access-purpose52/source-capture.json). [Two historical correction deltas](https://github.com/CraysWorld/crays-platform/blob/nextcloud-purpose45-own-deltas-agpl-20261109/operations/nextcloud-access-purpose45-history/README.md) add 9,756 original bytes. | [CRAYS AG AGPL-3.0-only scope](https://github.com/CraysWorld/crays-platform/blob/nextcloud-purpose52-source-agpl-20261109/operations/nextcloud-access-purpose52/LICENSING.md) covers only these revisions. Account-bound intent/approval/outcome and rollback-qualification source is preserved; SQL and SSO are not activated by this publication. Functional acceptance, Nextcloud Server/apps, dependencies and complete rights/recovery remain separate. Their [separate corrective-change grant](https://github.com/CraysWorld/crays-platform/blob/nextcloud-purpose45-own-deltas-agpl-20261109/operations/nextcloud-access-purpose45-history/LICENSING.md) excludes the original Purpose45 SQL/pool, which remain privately recoverable with unresolved authorship. |
-| TLS19 DNS01 bootstrap operations | [Three original bootstrap and APT-preparation programs](https://github.com/CraysWorld/crays-platform/tree/tls19-own-ops-agpl3-only-20261109/operations/tls19-dns01-bootstrap), totaling 15,367 bytes, with anonymous source-byte verification. | The exact CRAYS-owned revisions have a [scoped AGPL-3.0-only grant from CRAYS AG](https://github.com/CraysWorld/crays-platform/blob/tls19-own-ops-agpl3-only-20261109/operations/tls19-dns01-bootstrap/LICENSING.md). Upstream package implementations, private keys and runtime inputs are excluded; source publication does not establish issuance, installation, renewal or ingress adoption. |
-| Chuck48 and Common49 integration source | [Original Chuck48 listener](https://github.com/CraysWorld/crays-platform/tree/chuck-forwarded-transport48-source-20261109/operations/chuck-original-transport48), plus [Common49 and revision03 installation/finishing/ingress sources](https://github.com/CraysWorld/crays-platform/tree/chuck48-common49-install-rev03-source-20261109/operations/chuck-original-transport48/install-revision03). The later packet preserves five unchanged originals, 130,403 bytes, with exact existing-helper restoration references; all nine published files were anonymously byte-compared. | Product and lifecycle source reviews passed; prior pure-check evidence was reused. This is source preservation, not authenticated customer acceptance or proof of actual runtime adoption. Protected approval, launch and runtime inputs are excluded. |
-| Native iOS selected source | Existing [crays-ios](https://github.com/CraysWorld/crays-ios) branch codex/ios-original-owner-person-binding is preserved at d53dfa590279d8e47accbce09844a77578ce86fa with an immutable source checkpoint tag; [version/coverage map](native-source-map.md) | Six missing original commits and all 29 new blob versions were independently read back; the complete original Git-tree identity covers 3,511 tracked files. Public/history/privacy/rights review, ignored candidates and distinct current Core/WIP/runtime recovery remain open. No native build or development resume was performed. |
-| Native Core selected source | [Tracked modifications/preimages and additional original inputs](https://github.com/CraysWorld/crays-platform/tree/main/apps/web/compositions/native-core-worktree-20261109) retain 28 tracked changes with exact original preimages. Within the separate 848-candidate input capture, 788 raw originals and 55 reversible protected templates are represented publicly. | Five additional inputs still lack precise source authority. The protected templates require the separately preserved original archive. The 453 additional Core commits, other WIP, latest runtime relationship and complete dependencies/rights/recovery remain open. |
-| Club Next listener and private HTTPS | [Original listener/bootstrap/origin/TLS fragments](https://github.com/CraysWorld/crays-platform/tree/main/services/club-next-runtime) and [controller revisions, original patches, acceptance programs and referenced helpers](https://github.com/CraysWorld/crays-platform/tree/main/operations/club-next-runtime): 35 original source-file relationships, 24 new bodies and 11 existing immutable references | Anonymous readback verified all 33 new/changed source-commit files and all 35 original source bodies. Three exact controller hashes match the observed owner execution records. Complete current runtime/image parity, full application acceptance, wider source/dependencies/licenses and protected recovery remain open. Private keys, bound credentials and live owner controls are excluded. |
-| Work/Qlo runtime wrappers | [Original bootstrap and four local CommonJS modules](https://github.com/CraysWorld/crays-platform/tree/main/services/work-qlo-runtime), with exact source hashes and the matching bootstrap pin in the captured binding-check code | The underlying Next application, dynamic dependencies, client-asset continuity/assets, protected operating inputs and complete runtime/image/license recovery remain open. |
-| Net | Exact 982-file application tree in [crays-web-codex](https://github.com/CraysWorld/crays-web-codex/tree/2b81461e8e8b5ee6fbdb59e36215c4b574d235bf), with original MIT notice and unchanged hosting wrapper in [crays-platform](https://github.com/CraysWorld/crays-platform/tree/main/hosting/net) | Rebuild, runtime and complete dependency notice evidence remain open. |
-| Org website | [Topic index, original route/page sources and developer guide](https://github.com/CraysWorld/crays-org/blob/org-page-reader-index-20261109/source-archives/org-web/org05-20261107/PAGE_INDEX.md): all 1,838 JSON inputs (168,384,874 bytes) are public, with the previous 38 original source/technical inputs retained. All 1,842 files in this addition were anonymously compared by size and SHA-256; all 1,838 original bodies match. CRAYS AG grants [AGPL-3.0-only for 25 exact own integration files](https://github.com/CraysWorld/crays-org/blob/org-web-own-code-agpl3-account4-20261109/source-archives/org-web/org05-20261107/LICENSING.md). | The owner confirmed original authorship of the article/directory/translation corpus; this does not declare a new prose/asset reuse license. The separately preserved 25,101,191-byte search-index original now has an exact private S3 archive/member restore-hash proof, but is not in this public addition. Private restore mapping and rights for the remaining 405 media/font files, complete root dependency lock/notices and complete runtime recovery remain open. The main branch is unchanged; this is a source-only tag. |
-| Coffee | Qualified two-commit capture and 53 app/public-source files in [crays-coffee](https://github.com/CraysWorld/crays-coffee), including all eight recorded source states | Earlier mixed product history, distinct WIP, media and dependency/recovery/license closure remain open. |
-| Shop | Qualified three-commit capture and 466 selected source/build/public/reference files in [crays-shop](https://github.com/CraysWorld/crays-shop), including original font notices | Media, complete dependencies/runtime notices, application licensing and earlier-history closure remain open. |
-| Pro | Qualified two-commit capture and 89 selected source/public files in [crays-pro](https://github.com/CraysWorld/crays-pro) | Other Pro systems, media, dependencies/runtime notices, application licensing and earlier history remain separate. |
+**Components**
+
+- [Shared Next.js application](#source-shared-next-js-application)
+- [Personal application and Chuck owner-consumer](#source-personal-application-and-chuck-owner-consumer)
+- [Club/Member browser module](#source-club-member-browser-module)
+- [Member Next application inputs](#source-member-next-application-inputs)
+- [Qlo gateway](#source-qlo-gateway)
+- [Clubs Commerce BFF](#source-clubs-commerce-bff)
+- [Pure80 BFF build and probe sources](#source-pure80-bff-build-and-probe-sources)
+- [Shared web operational helpers](#source-shared-web-operational-helpers)
+- [Migration operations](#source-migration-operations)
+- [Member document-provider build and lifecycle sources](#source-member-document-provider-build-and-lifecycle-sources)
+- [Member51 Forward02 and ingress](#source-member51-forward02-and-ingress)
+- [Member51 historical recovery revisions01–03](#source-member51-historical-recovery-revisions0103)
+- [Vendure provider operating and verifier sources](#source-vendure-provider-operating-and-verifier-sources)
+- [Vendure preferred TypeScript input](#source-vendure-preferred-typescript-input)
+- [Nextcloud access-purpose52 source](#source-nextcloud-access-purpose52-source)
+- [TLS19 DNS01 bootstrap operations](#source-tls19-dns01-bootstrap-operations)
+- [Chuck48 and Common49 integration source](#source-chuck48-and-common49-integration-source)
+- [Native iOS selected source](#source-native-ios-selected-source)
+- [Native Core selected source](#source-native-core-selected-source)
+- [Club Next listener and private HTTPS](#source-club-next-listener-and-private-https)
+- [Work/Qlo runtime wrappers](#source-work-qlo-runtime-wrappers)
+- [Net](#source-net)
+- [Org website](#source-org-website)
+- [Coffee](#source-coffee)
+- [Shop](#source-shop)
+- [Pro](#source-pro)
+
+<a id="source-shared-next-js-application"></a>
+
+### Shared Next.js application
+
+**Preserved source**
+
+2,045 original selected files in [crays-platform/apps/web](https://github.com/CraysWorld/crays-platform/tree/main/apps/web), with exact baseline and prepared-state tags, five original integration files and version-bound dependency records
+
+**Remaining limits**
+
+Current AWS overlays, four operational programs under fixture/contact provenance review, a qualified application lockfile, media, complete history and full rights/recovery closure remain open.
+
+<a id="source-personal-application-and-chuck-owner-consumer"></a>
+
+### Personal application and Chuck owner-consumer
+
+**Preserved source**
+
+[Original baseline and 13-overlay source compositions](https://github.com/CraysWorld/crays-platform/tree/main/apps/personal): 1,435 current text inputs, ten preimages, 30 exact direct package metadata records, 31 original notice files and eleven original generated image inputs. The [54-entry image map](https://github.com/CraysWorld/crays-platform/tree/main/apps/personal/provenance/images) records all original paths and current source evidence. A separate [private owner-consumer snapshot](https://github.com/CraysWorld/crays-gym/blob/6d943ccbfa4cc3d2ba9f80705e2e90a5a1e3ba47/protected-source-archives/chuck-original-owner-consumer54/README.md) preserves six originals (415,148 bytes), including the unchanged third-party notices, with an [exact source/version and restoration map](https://github.com/CraysWorld/crays-gym/blob/6d943ccbfa4cc3d2ba9f80705e2e90a5a1e3ba47/protected-source-archives/chuck-original-owner-consumer54/source-capture.json). The [private preferred-source snapshot](https://github.com/CraysWorld/crays-gym/blob/6d06d21265d49d3cd2526963689b13295995e3ed/protected-source-archives/chuck-build64-preferred-fifteen/README.md) adds fifteen editable originals (114,701 bytes); its [restoration map](https://github.com/CraysWorld/crays-gym/blob/6d06d21265d49d3cd2526963689b13295995e3ed/protected-source-archives/chuck-build64-preferred-fifteen/source-capture.json) also references seven already-public inputs (70,376 bytes), for 22 application-code inputs (185,077 bytes). These snapshot links require private repository access. Both compiled snapshots retain the original package notices and PostgreSQL COPYRIGHT: the separate [prepared builder/pool/bundle snapshot](https://github.com/CraysWorld/crays-gym/blob/a820ef2134a27e1f61401ce82d414e183c19d21d/protected-source-archives/chuck-consumer54-build-recipe/README.md) preserves five source artifacts without replacing the original six or the 22-input application map. The [public selected dependency snapshot](https://github.com/CraysWorld/crays-platform/blob/3cd6831a2e94af8b22b9734a0ca85346860668d0/third-party/chuck-owner-consumer54/README.md) adds 40 installed source inputs (177,251 bytes), fourteen package manifests, 26 original notice files and the PostgreSQL COPYRIGHT supplement, with a [notice index](https://github.com/CraysWorld/crays-platform/blob/3cd6831a2e94af8b22b9734a0ca85346860668d0/third-party/chuck-owner-consumer54/NOTICE.md). The separately captured [esbuild 0.28.1 toolchain](https://github.com/CraysWorld/crays-gym/blob/e20ee8e2cefca769ee2c817c7f8d3cdb06a252bc/protected-source-archives/chuck-esbuild0281-toolchain/README.md) and [artifact/restoration map](https://github.com/CraysWorld/crays-gym/blob/e20ee8e2cefca769ee2c817c7f8d3cdb06a252bc/protected-source-archives/chuck-esbuild0281-toolchain/source-capture.json) require private repository access and preserve seven original artifacts (11,510,423 bytes), including the wrapper, manifests, Linux x64 executable and original MIT/README texts.
+
+**Remaining limits**
+
+Latest anonymous readback verified every one of the 1,535 published Personal-directory files. Both full source views restored with all 2,975 independent original comparisons passing. Forty-three image input paths (40 distinct bodies), the protected owner input, original fontkit notice, dependencies beyond the selected build inputs, complete upstream packages, external SDK/Node dependencies, preferred compiler source and assets, current runtime adoption and full rights/recovery closure remain open. One isolated GitHub-to-AWS source recovery verified all 63 non-private original BUILD input paths (362,328 bytes), including the unchanged 2,570-byte loader, plus 41 separately counted package/notice files (69,475 bytes). The protected 9,220-byte binding JSON was excluded. Executable compiler custody establishes neither complete preferred compiler source nor a reproduced build; pristine registry-byte identity and complete 64-input/runnable recovery remain unproven.
+
+<a id="source-club-member-browser-module"></a>
+
+### Club/Member browser module
+
+**Preserved source**
+
+[Original and origin35 133-file input views](https://github.com/CraysWorld/crays-platform/tree/main/modules/club-member), including the exact origin-predicate change, recorded build binding, original notices and source-only restoration
+
+**Remaining limits**
+
+Both views were restored from anonymous GitHub plus the protected owner input: all 266 original comparisons passed. Common-shell/current runtime adoption, original assets, native compiler notice/source questions and full rights/recovery remain open.
+
+<a id="source-member-next-application-inputs"></a>
+
+### Member Next application inputs
+
+**Preserved source**
+
+[Original 1,399-file and AWS 1,401-file source compositions](https://github.com/CraysWorld/crays-platform/tree/main/apps/web/compositions/member-source25), using an immutable common baseline, original changed source bodies and protected test-input templates
+
+**Remaining limits**
+
+Both complete source views were restored from anonymous GitHub plus separately backed-up owner inputs, with all 2,800 original file comparisons passing. Later runtime variants, integration, other WIP/docs, assets and full rights/recovery closure remain open.
+
+<a id="source-qlo-gateway"></a>
+
+### Qlo gateway
+
+**Preserved source**
+
+Original service/build files, original README and four tests in [crays-platform](https://github.com/CraysWorld/crays-platform/tree/main/services/qlo-gateway). The nine identified CRAYS-owned code/build/test revisions have an explicit [AGPL-3.0-only grant](https://github.com/CraysWorld/crays-platform/blob/main/services/qlo-gateway/LICENSING.md) from CRAYS AG.
+
+**Remaining limits**
+
+Exact runtime/dependency notices and complete source/recovery obligations remain open; captured tests were not freshly executed.
+
+<a id="source-clubs-commerce-bff"></a>
+
+### Clubs Commerce BFF
+
+**Preserved source**
+
+Nine original files and fourteen dependency notices in [crays-platform](https://github.com/CraysWorld/crays-platform/tree/main/services/clubs-commerce-bff). The six identified CRAYS-owned code/build/test revisions have an explicit [AGPL-3.0-only grant](https://github.com/CraysWorld/crays-platform/blob/main/services/clubs-commerce-bff/LICENSING.md).
+
+**Remaining limits**
+
+Dependency and upstream terms remain original; exact runtime/base-image licensing, full recovery and deployment acceptance remain separate.
+
+<a id="source-pure80-bff-build-and-probe-sources"></a>
+
+### Pure80 BFF build and probe sources
+
+**Preserved source**
+
+[Two original operation programs](https://github.com/CraysWorld/crays-platform/tree/bff-pure80-original-source-20261109/operations/clubs-commerce-bff/pure80-source-revision01), totaling 42,474 bytes, with exact source-field/version and embedded-probe provenance.
+
+**Remaining limits**
+
+The two exact CRAYS-owned revisions, including the embedded test string, now have a separate [AGPL-3.0-only grant from CRAYS AG](https://github.com/CraysWorld/crays-platform/blob/bff-pure80-own-ops-agpl3-only-20261109/operations/clubs-commerce-bff/pure80-source-revision01/LICENSING.md), bound to the actual source-author confirmation. The existing six-file BFF component grant and imported implementation terms remain separate. No image parity, executed probe, build or customer acceptance is claimed.
+
+<a id="source-shared-web-operational-helpers"></a>
+
+### Shared web operational helpers
+
+**Preserved source**
+
+90 referenced programs and two imported modules in [apps/web/scripts](https://github.com/CraysWorld/crays-platform/tree/main/apps/web/scripts), with historical baseline and exact two-file worktree tags; four additional [protected source views](https://github.com/CraysWorld/crays-platform/tree/shared-web-four-protected-source-20261109/source-archives/shared-web/four-protected-operational-helpers-20261109)
+
+**Remaining limits**
+
+Raw contact/fixture origins for the four templates remain unresolved; exact originals stay recoverable from the existing private GitHub repository. The checked in-memory restorer is separately AGPL-3.0-only; no new license is inferred for the four original/template programs. Runtime compatibility, external inputs and complete rights/recovery remain open; none of the original programs were executed.
+
+<a id="source-migration-operations"></a>
+
+### Migration operations
+
+**Preserved source**
+
+Selected [Personal build/helper programs](https://github.com/CraysWorld/crays-platform/tree/main/operations/personal-build), [Club/Member capture/build/adoption programs](https://github.com/CraysWorld/crays-platform/tree/main/operations/member-origin35), [Qlo/Work runtime-family revisions and original patches](https://github.com/CraysWorld/crays-platform/tree/main/operations/qlo-work-family), Qlo/storage/Postiz programs and [Neon → RDS](https://github.com/CraysWorld/crays-platform/tree/main/operations/neon-rds) sources. The [four Original30 role-preparation sources](https://github.com/CraysWorld/crays-platform/blob/original30-grantee-preparation-source-agpl-20261109/operations/neon-rds/original30-grantee-preparation-revision02/README.md) add 52,167 unchanged bytes with their [own CRAYS AG AGPL-3.0-only scope](https://github.com/CraysWorld/crays-platform/blob/original30-grantee-preparation-source-agpl-20261109/operations/neon-rds/original30-grantee-preparation-revision02/LICENSING.md).
+
+**Remaining limits**
+
+Programs retain protected inputs and historical assumptions. Six RDS files are templates; reconstruction of twelve originals was verified privately. Original30 describes technical NOLOGIN grantees, not LOGIN/authentication parity, consumer activation or restore acceptance.
+
+<a id="source-member-document-provider-build-and-lifecycle-sources"></a>
+
+### Member document-provider build and lifecycle sources
+
+**Preserved source**
+
+[Build revision02](https://github.com/CraysWorld/crays-platform/tree/member-document-provider51-build-rev02-source-agpl-20261109/operations/member-document-provider51/build-revision02) preserves two originals (14,954 bytes); [lifecycle revision01](https://github.com/CraysWorld/crays-platform/tree/member-document-provider51-lifecycle-source-agpl-20261109/operations/member-document-provider51/lifecycle-revision01) preserves five originals (84,208 bytes), with exact existing-helper references.
+
+**Remaining limits**
+
+Each group has its own exact CRAYS AG AGPL-3.0-only scope. These grants cover the listed operation programs, not the separately preserved selector, unchanged helpers, application or dependencies. Source publication is separate from build/adoption results and genuine customer document acceptance.
+
+<a id="source-member51-forward02-and-ingress"></a>
+
+### Member51 Forward02 and ingress
+
+**Preserved source**
+
+[Four exact current-revision programs](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-forward02-source-agpl-20261109/operations/member-document-provider51/forward-revision02/README.md), 75,294 bytes, with [original-path restoration map](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-forward02-source-agpl-20261109/operations/member-document-provider51/forward-revision02/source-capture.json)
+
+**Remaining limits**
+
+[CRAYS AG AGPL-3.0-only scope](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-forward02-source-agpl-20261109/operations/member-document-provider51/forward-revision02/LICENSING.md) covers these four programs. Initial lifecycle/build sources, selector and imported helpers keep separate scopes; source verification does not establish customer acceptance or complete runtime/recovery.
+
+<a id="source-member51-historical-recovery-revisions0103"></a>
+
+### Member51 historical recovery revisions01–03
+
+**Preserved source**
+
+[Five separately retained predecessor programs](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-historical01-03-source-agpl-20261109/operations/member-document-provider51/historical-revisions01-03/README.md), 75,186 bytes, with [original-path restoration map](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-historical01-03-source-agpl-20261109/operations/member-document-provider51/historical-revisions01-03/source-capture.json)
+
+**Remaining limits**
+
+[Separate CRAYS AG AGPL-3.0-only scope](https://github.com/CraysWorld/crays-platform/blob/member-document-provider51-historical01-03-source-agpl-20261109/operations/member-document-provider51/historical-revisions01-03/LICENSING.md) covers only these five versions. They are historical source, not approved replay instructions or proof that each revision executed. Dependency, rights and full recovery boundaries remain open.
+
+<a id="source-vendure-provider-operating-and-verifier-sources"></a>
+
+### Vendure provider operating and verifier sources
+
+**Preserved source**
+
+[Ten original operating and verifier programs](https://github.com/CraysWorld/crays-platform/tree/vendure-own-ops-agpl3-only-20261109/operations/vendure-native-provider-integration), totaling 215,470 bytes, with anonymous source-byte verification.
+
+**Remaining limits**
+
+The exact CRAYS-owned revisions and fourteen mapped nested own-code regions have a [scoped AGPL-3.0-only grant from CRAYS AG](https://github.com/CraysWorld/crays-platform/blob/vendure-own-ops-agpl3-only-20261109/operations/vendure-native-provider-integration/LICENSING.md). Vendure/framework implementations retain upstream terms; complete image/dependency source, notices, runtime adoption and recovery remain separate. Private launch/environment inputs are excluded.
+
+<a id="source-vendure-preferred-typescript-input"></a>
+
+### Vendure preferred TypeScript input
+
+**Preserved source**
+
+[The exact 3,574-byte authored source field](https://github.com/CraysWorld/crays-platform/tree/vendure-original-typescript-source-agpl-20261109/operations/vendure-native-provider-integration/preferred-source07-rev04) is now public with its immutable compiler-input relationship.
+
+**Remaining limits**
+
+This one CRAYS-owned revision has a separate scoped AGPL-3.0-only grant. Its original filesystem filename is unknown; the preservation filename does not invent one. No new compilation, upstream relicensing or runtime acceptance is established.
+
+<a id="source-nextcloud-access-purpose52-source"></a>
+
+### Nextcloud access-purpose52 source
+
+**Preserved source**
+
+[Four own source revisions](https://github.com/CraysWorld/crays-platform/blob/nextcloud-purpose52-source-agpl-20261109/operations/nextcloud-access-purpose52/README.md), 96,671 original bytes: pool/function pins unchanged, two SQL views protecting 16 occurrences of one account-linked fingerprint; [exact private original recovery map](https://github.com/CraysWorld/crays-platform/blob/nextcloud-purpose52-source-agpl-20261109/operations/nextcloud-access-purpose52/source-capture.json). [Two historical correction deltas](https://github.com/CraysWorld/crays-platform/blob/nextcloud-purpose45-own-deltas-agpl-20261109/operations/nextcloud-access-purpose45-history/README.md) add 9,756 original bytes.
+
+**Remaining limits**
+
+[CRAYS AG AGPL-3.0-only scope](https://github.com/CraysWorld/crays-platform/blob/nextcloud-purpose52-source-agpl-20261109/operations/nextcloud-access-purpose52/LICENSING.md) covers only these revisions. Account-bound intent/approval/outcome and rollback-qualification source is preserved; SQL and SSO are not activated by this publication. Functional acceptance, Nextcloud Server/apps, dependencies and complete rights/recovery remain separate. Their [separate corrective-change grant](https://github.com/CraysWorld/crays-platform/blob/nextcloud-purpose45-own-deltas-agpl-20261109/operations/nextcloud-access-purpose45-history/LICENSING.md) excludes the original Purpose45 SQL/pool, which remain privately recoverable with unresolved authorship.
+
+<a id="source-tls19-dns01-bootstrap-operations"></a>
+
+### TLS19 DNS01 bootstrap operations
+
+**Preserved source**
+
+[Three original bootstrap and APT-preparation programs](https://github.com/CraysWorld/crays-platform/tree/tls19-own-ops-agpl3-only-20261109/operations/tls19-dns01-bootstrap), totaling 15,367 bytes, with anonymous source-byte verification.
+
+**Remaining limits**
+
+The exact CRAYS-owned revisions have a [scoped AGPL-3.0-only grant from CRAYS AG](https://github.com/CraysWorld/crays-platform/blob/tls19-own-ops-agpl3-only-20261109/operations/tls19-dns01-bootstrap/LICENSING.md). Upstream package implementations, private keys and runtime inputs are excluded; source publication does not establish issuance, installation, renewal or ingress adoption.
+
+<a id="source-chuck48-and-common49-integration-source"></a>
+
+### Chuck48 and Common49 integration source
+
+**Preserved source**
+
+[Original Chuck48 listener](https://github.com/CraysWorld/crays-platform/tree/chuck-forwarded-transport48-source-20261109/operations/chuck-original-transport48), plus [Common49 and revision03 installation/finishing/ingress sources](https://github.com/CraysWorld/crays-platform/tree/chuck48-common49-install-rev03-source-20261109/operations/chuck-original-transport48/install-revision03). The later packet preserves five unchanged originals, 130,403 bytes, with exact existing-helper restoration references; all nine published files were anonymously byte-compared.
+
+**Remaining limits**
+
+Product and lifecycle source reviews passed; prior pure-check evidence was reused. This is source preservation, not authenticated customer acceptance or proof of actual runtime adoption. Protected approval, launch and runtime inputs are excluded.
+
+<a id="source-native-ios-selected-source"></a>
+
+### Native iOS selected source
+
+**Preserved source**
+
+Existing [crays-ios](https://github.com/CraysWorld/crays-ios) branch codex/ios-original-owner-person-binding is preserved at d53dfa590279d8e47accbce09844a77578ce86fa with an immutable source checkpoint tag; [version/coverage map](native-source-map.md)
+
+**Remaining limits**
+
+Six missing original commits and all 29 new blob versions were independently read back; the complete original Git-tree identity covers 3,511 tracked files. Public/history/privacy/rights review, ignored candidates and distinct current Core/WIP/runtime recovery remain open. No native build or development resume was performed.
+
+<a id="source-native-core-selected-source"></a>
+
+### Native Core selected source
+
+**Preserved source**
+
+[Tracked modifications/preimages and additional original inputs](https://github.com/CraysWorld/crays-platform/tree/main/apps/web/compositions/native-core-worktree-20261109) retain 28 tracked changes with exact original preimages. Within the separate 848-candidate input capture, 788 raw originals and 55 reversible protected templates are represented publicly.
+
+**Remaining limits**
+
+Five additional inputs still lack precise source authority. The protected templates require the separately preserved original archive. The 453 additional Core commits, other WIP, latest runtime relationship and complete dependencies/rights/recovery remain open.
+
+<a id="source-club-next-listener-and-private-https"></a>
+
+### Club Next listener and private HTTPS
+
+**Preserved source**
+
+[Original listener/bootstrap/origin/TLS fragments](https://github.com/CraysWorld/crays-platform/tree/main/services/club-next-runtime) and [controller revisions, original patches, acceptance programs and referenced helpers](https://github.com/CraysWorld/crays-platform/tree/main/operations/club-next-runtime): 35 original source-file relationships, 24 new bodies and 11 existing immutable references
+
+**Remaining limits**
+
+Anonymous readback verified all 33 new/changed source-commit files and all 35 original source bodies. Three exact controller hashes match the observed owner execution records. Complete current runtime/image parity, full application acceptance, wider source/dependencies/licenses and protected recovery remain open. Private keys, bound credentials and live owner controls are excluded.
+
+<a id="source-work-qlo-runtime-wrappers"></a>
+
+### Work/Qlo runtime wrappers
+
+**Preserved source**
+
+[Original bootstrap and four local CommonJS modules](https://github.com/CraysWorld/crays-platform/tree/main/services/work-qlo-runtime), with exact source hashes and the matching bootstrap pin in the captured binding-check code
+
+**Remaining limits**
+
+The underlying Next application, dynamic dependencies, client-asset continuity/assets, protected operating inputs and complete runtime/image/license recovery remain open.
+
+<a id="source-net"></a>
+
+### Net
+
+**Preserved source**
+
+Exact 982-file application tree in [crays-web-codex](https://github.com/CraysWorld/crays-web-codex/tree/2b81461e8e8b5ee6fbdb59e36215c4b574d235bf), with original MIT notice and unchanged hosting wrapper in [crays-platform](https://github.com/CraysWorld/crays-platform/tree/main/hosting/net)
+
+**Remaining limits**
+
+Rebuild, runtime and complete dependency notice evidence remain open.
+
+<a id="source-org-website"></a>
+
+### Org website
+
+**Preserved source**
+
+[Topic index, original route/page sources and developer guide](https://github.com/CraysWorld/crays-org/blob/org-page-reader-index-20261109/source-archives/org-web/org05-20261107/PAGE_INDEX.md): all 1,838 JSON inputs (168,384,874 bytes) are public, with the previous 38 original source/technical inputs retained. All 1,842 files in this addition were anonymously compared by size and SHA-256; all 1,838 original bodies match. CRAYS AG grants [AGPL-3.0-only for 25 exact own integration files](https://github.com/CraysWorld/crays-org/blob/org-web-own-code-agpl3-account4-20261109/source-archives/org-web/org05-20261107/LICENSING.md).
+
+**Remaining limits**
+
+The owner confirmed original authorship of the article/directory/translation corpus; this does not declare a new prose/asset reuse license. The separately preserved 25,101,191-byte search-index original now has an exact private S3 archive/member restore-hash proof, but is not in this public addition. Private restore mapping and rights for the remaining 405 media/font files, complete root dependency lock/notices and complete runtime recovery remain open. The main branch is unchanged; this is a source-only tag.
+
+<a id="source-coffee"></a>
+
+### Coffee
+
+**Preserved source**
+
+Qualified two-commit capture and 53 app/public-source files in [crays-coffee](https://github.com/CraysWorld/crays-coffee), including all eight recorded source states
+
+**Remaining limits**
+
+Earlier mixed product history, distinct WIP, media and dependency/recovery/license closure remain open.
+
+<a id="source-shop"></a>
+
+### Shop
+
+**Preserved source**
+
+Qualified three-commit capture and 466 selected source/build/public/reference files in [crays-shop](https://github.com/CraysWorld/crays-shop), including original font notices
+
+**Remaining limits**
+
+Media, complete dependencies/runtime notices, application licensing and earlier-history closure remain open.
+
+<a id="source-pro"></a>
+
+### Pro
+
+**Preserved source**
+
+Qualified two-commit capture and 89 selected source/public files in [crays-pro](https://github.com/CraysWorld/crays-pro)
+
+**Remaining limits**
+
+Other Pro systems, media, dependencies/runtime notices, application licensing and earlier history remain separate.
 
 Each listed capture was read back from GitHub and checked against its recorded source bytes. [Verification records](verification-records.md) retain the exact commits and verification scopes.
 

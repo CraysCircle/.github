@@ -1,6 +1,10 @@
 # Repository guide
 
-This is the navigation map for CraysCircle. It separates implementation source, website snapshots, mobile projects, documentation and upstream forks. These roles are based on the inspected repository trees and existing migration source evidence; a role is not a functional acceptance result.
+CRAYS develops software connecting members, guests and venue operators: personal experiences, membership, commerce and business operations. This guide helps you choose the repository for the experience or integration you want to improve.
+
+**[Understand the architecture](https://github.com/CraysCircle/crays-platform/blob/main/docs/architecture.md) · [Explore service integrations](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/README.md) · [Try a first local test](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/qlo.md#first-local-check-the-two-projection-tests) · [Contribute](https://github.com/CraysCircle/crays-platform/blob/main/CONTRIBUTING.md)**
+
+Project repositories, shared implementations and retained upstream forks have different roles. Their detailed source/version records remain linked below.
 
 ## Shared application and platform services
 

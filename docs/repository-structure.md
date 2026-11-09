@@ -24,6 +24,8 @@ Member source25 uses [named compositions under apps/web](https://github.com/Cray
 
 The separately built [Club/Member browser module](https://github.com/CraysCircle/crays-platform/tree/main/modules/club-member) is retained under modules/club-member in the same platform repository. Its original candidate has no own project package/lock. Original dependency-environment metadata stays identified as metadata; exact source views, compiler observations and the recorded build are documented independently of the Next application and current runtime adoption.
 
+The [Personal React/Vite application](https://github.com/CraysCircle/crays-platform/tree/main/apps/personal) is preserved under apps/personal in the existing platform repository. Its original package is crays-unified-web-personal. The original output-folder source was not tracked at its original path; an exact GitHub tree comparison found only 17 current blobs in the retained historical Gym tree. The source archive therefore retains its actual baseline and ten preimages, with the 13 changes recorded explicitly. This source composition includes Gym/Personal/Member views without claiming complete current-source coverage of those products.
+
 ## Reading a project
 
 Each project needs a concise README explaining purpose, intended readers, implementation location, related services and its current source/release status. From there, readers should reach:
@@ -37,7 +39,7 @@ Each project needs a concise README explaining purpose, intended readers, implem
 - Applicable source-availability instructions, contribution guidance and known gaps.
 - Recovery prerequisites: what Git restores, what must be built, and which protected data or configuration the runtime owner restores separately.
 
-Use existing framework layouts and original filenames. The existing crays-platform layout uses apps/web for the shared Next.js application, services/<component> for shared services, operations/<area> for reviewed operations source, hosting/<site> for hosting wrappers and docs for component/version records. These conventions are not a claim that every existing repository has already been reorganized or fully documented.
+Use existing framework layouts and original filenames. The existing crays-platform layout uses apps/web for the shared Next.js application, apps/personal for the separately built Personal React/Vite application, services/<component> for shared services, operations/<area> for reviewed operations source, hosting/<site> for hosting wrappers and docs for component/version records. These conventions are not a claim that every existing repository has already been reorganized or fully documented.
 
 ## Eleven website compositions
 
@@ -46,7 +48,7 @@ All eleven known website compositions must be reconciled individually. This tabl
 | Website | Existing source repository relationship | Current reconciliation |
 | --- | --- | --- |
 | Club | crays-club retains the original static site; the later shared Next.js composition is assigned to crays-platform with exact product-version references | The 2,045 selected original files and baseline are publicly byte-verified in crays-platform/apps/web. A supplemental capture preserves 90 operational programs and two imported helpers; four programs remain under contact/fixture provenance review. Later overlays, execution inputs, full dependencies, assets and rights/recovery closure remain open. |
-| Gym | crays-gym retains Gym and historical platform source | Reconcile current source and WIP separately from older committed material. |
+| Gym | crays-gym retains Gym and historical platform source; crays-platform/apps/personal preserves the captured shared frontend including Gym views | Exact Personal baseline/13-overlay text sources and ten preimages are public. The 54 image bodies, later Gym/WIP, full runtime/dependency and rights/recovery closure remain open. |
 | Coffee | crays-coffee now preserves the qualified Next.js capture and public source files | All eight recorded source states, including the two later CSS files, are preserved; media/dependency/license and earlier-history closure remain open. |
 | Shop | crays-shop preserves the qualified capture, final fallback and original reference code | Source/history/font notices verified; media/dependency/license and earlier-history closure stay open. |
 | Pro | crays-pro preserves the qualified public website and final menu/login fix | Source/history verified; other Pro systems, media/dependency/runtime and rights acceptance remain separate. |

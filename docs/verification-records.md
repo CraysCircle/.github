@@ -96,3 +96,13 @@ The existing crays-platform repository now preserves the selected shared web app
 - TypeScript's additional ThirdPartyNoticeText.txt was already present, byte-identical and indexed in the shared web catalog. The browser-module intake filter and observation were corrected; no duplicate patch to the existing catalog was necessary.
 - A fresh anonymous GitHub clone verified the annotated tag and all 222 new/changed file blobs, then restored both source views using the protected owner input. All 266 original comparisons passed again. The [module guide and readback](https://github.com/CraysCircle/crays-platform/tree/main/modules/club-member) distinguish this from the separate 1,399/1,401-file Next input views, current Common-shell/backend/image adoption and full operational/legal acceptance.
 - No original capture/build/stage/adoption program or product runtime was executed by this source-preservation task. The owner's successful build was not repeated.
+
+## Personal application baseline and 13-overlay source
+
+Source commit: `77150c3b8cfe200d21672c9e62c9c2b9562d982b`; annotated tag: `personal-web-source1489-20261109`. Existing repository: CraysCircle/crays-platform, directory apps/personal.
+
+The original baseline has 1,486 inputs. Thirteen source changes produce 1,489 current inputs: ten changed originals and three new files. All 1,489 current source hashes match the recorded AWS Build02 entry. Its 513-file output digest is `2cdcf48ed1d3b1d99880969a5683b3c0a79b9431a91c300911097506cae1b088`; this does not prove current runtime adoption.
+
+The source-only restorer reconstructed both views from an anonymous GitHub clone plus the protected owner input and 54 original images: all 2,975 independently pinned original file comparisons passed. All 1,516 source-commit files were also anonymously size/hash checked. Six restoration refusal checks passed. Original application/build/operations programs were not executed; no install, build or deployment was repeated.
+
+Nine text inputs use a protected test-account marker. The 54 original image bodies remain outside this public source capture pending provenance/rights review. All 30 directly declared package versions match original captured metadata; 31 original root notices were located for 29 packages. The original root notice for @pdf-lib/fontkit 1.1.1 and complete transitive/runtime/source-offer/recovery obligations remain open.

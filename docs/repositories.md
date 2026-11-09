@@ -67,8 +67,8 @@ Preserved platform components:
 | --- | --- | --- |
 | [calendar](https://github.com/CraysCircle/calendar) | Fork of nextcloud/calendar. | Original upstream relationship and Git history retained. |
 | [crm](https://github.com/CraysCircle/crm) | Fork of frappe/crm. | Original upstream relationship and Git history retained. |
-| [openproject](https://github.com/CraysCircle/openproject) | Fork of opf/openproject. | Original upstream relationship and Git history retained. |
-| [twenty](https://github.com/CraysCircle/twenty) | Fork of twentyhq/twenty. | Original upstream relationship retained; component-specific license terms must be respected. |
+| [openproject](https://github.com/CraysCircle/openproject) | Historical fork, no longer used in the current CRAYS stack; retained with original history and license. See [legacy projects](legacy-projects.md). | Original upstream relationship and Git history retained. |
+| [twenty](https://github.com/CraysCircle/twenty) | Historical fork, no longer used in the current CRAYS stack; retained with original history and license. See [legacy projects](legacy-projects.md). | Original upstream relationship retained; component-specific license terms must be respected. |
 | [primal-web-app](https://github.com/CraysCircle/primal-web-app) | Fork of Chandan-codedidea/primal-web-app. | Separate upstream reference; not a substitute for the exact CRAYS deployed source. |
 
 ## How to find an exact AWS version

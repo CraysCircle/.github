@@ -22,6 +22,8 @@ Do not rename repositories, move product directories, rewrite history or replace
 
 Member source25 uses [named compositions under apps/web](https://github.com/CraysCircle/crays-platform/tree/main/apps/web/compositions/member-source25). Each complete file manifest references unchanged source by immutable commit and retains changed source bodies or protected templates. The source-only materializer restores an exact input view; this preserves distinct versions without replacing the prepared Club tree or creating another repository. The two owner-supplied test inputs and full runtime recovery remain separate.
 
+The separately built [Club/Member browser module](https://github.com/CraysCircle/crays-platform/tree/main/modules/club-member) is retained under modules/club-member in the same platform repository. Its original candidate has no own project package/lock. Original dependency-environment metadata stays identified as metadata; exact source views, compiler observations and the recorded build are documented independently of the Next application and current runtime adoption.
+
 ## Reading a project
 
 Each project needs a concise README explaining purpose, intended readers, implementation location, related services and its current source/release status. From there, readers should reach:

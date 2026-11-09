@@ -41,7 +41,7 @@ All eleven known website compositions must be reconciled individually. This tabl
 
 | Website | Existing source repository relationship | Current reconciliation |
 | --- | --- | --- |
-| Club | crays-club retains the original static site; the later shared Next.js composition is assigned to crays-platform with exact product-version references | The 2,045 selected original files and baseline are publicly byte-verified in crays-platform/apps/web. Later overlays, 94 referenced operational helpers, full dependencies, assets and rights/recovery closure remain open. |
+| Club | crays-club retains the original static site; the later shared Next.js composition is assigned to crays-platform with exact product-version references | The 2,045 selected original files and baseline are publicly byte-verified in crays-platform/apps/web. A supplemental capture preserves 90 operational programs and two imported helpers; four programs remain under contact/fixture provenance review. Later overlays, execution inputs, full dependencies, assets and rights/recovery closure remain open. |
 | Gym | crays-gym retains Gym and historical platform source | Reconcile current source and WIP separately from older committed material. |
 | Coffee | crays-coffee now preserves the qualified Next.js capture and public source files | All eight recorded source states, including the two later CSS files, are preserved; media/dependency/license and earlier-history closure remain open. |
 | Shop | crays-shop preserves the qualified capture, final fallback and original reference code | Source/history/font notices verified; media/dependency/license and earlier-history closure stay open. |

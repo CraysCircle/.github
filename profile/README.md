@@ -4,13 +4,43 @@
 
 CRAYS brings together personal tools, community membership and the software needed to run clubs, hospitality and business projects. We build the web experiences, native interfaces and integrations that connect those worlds: a member's account, a guest's view of a property, an operator's project work, or the accounting consequence of a commerce event.
 
+<a id="architecture"></a>
+
+## Architecture: applications, Core/BCC and independent services
+
+**Target architecture · AWS integration in progress.** CRAYS connects application APIs, including GraphQL, to **Core/BCC identity, accounts, permissions and business rules**, then to independently operated services.
+
+~~~mermaid
+flowchart TD
+    UI["Web / mobile: Pro · Personal<br/>Member / Club · Work / SaaS"] --> API["CRAYS application APIs / GraphQL"]
+    API --> Core["Core / BCC: identity, accounts,<br/>permissions and business rules"]
+    Core --> Adapters["CRAYS BFFs and service adapters"]
+    Adapters --> Services["Independent service APIs and runtimes"]
+    Services --> Business["Plane · Vendure · Frappe / ERPNext · Qlo"]
+    Services --> Collaboration["Nextcloud · Postiz"]
+    Services --> Chuck["Chuck: personal intelligence"]
+    Chuck -. "documented component relationship" .-> OpenClaw["OpenClaw agent components"]
+    Core --> RDS["Core data: RDS PostgreSQL"]
+    Services --> Data["Service-owned databases and file storage"]
+    classDef crays fill:#fff1f2,stroke:#b42335,color:#202124;
+    class API,Core,Adapters crays;
+~~~
+
+In plain terms: the application asks for an operation; Core/BCC establishes its account and business authority; an adapter calls the responsible service. A **backend-for-frontend (BFF)** shapes application-specific requests and responses. It is distinct from Core/BCC and does not replace provider permissions.
+
+**GraphQL is an application interface; not every provider uses GraphQL.** Plane handles projects, Vendure commerce, Frappe/ERPNext business and finance, Qlo hospitality, Nextcloud files/collaboration and Postiz publishing. Chuck has separate consumer, agent and workflow boundaries; OpenClaw supplies documented agent components rather than being the same product. Twenty is [archived and no longer used](https://github.com/CraysWorld/.github/blob/main/docs/legacy-projects.md); any CRM reintroduction would be a separately qualified plan.
+
+The storage direction replaces **Neon PostgreSQL with Amazon RDS PostgreSQL** for Core data, while services retain appropriate PostgreSQL or MySQL/MariaDB databases. S3 adds object/file storage alongside provider-specific file services. These are architectural responsibilities, **not proof that every connection or end-to-end workflow is implemented or live**.
+
+[Visual architecture guide](https://github.com/CraysWorld/crays-platform/blob/main/docs/architecture.md) · [Member GraphQL source](https://github.com/CraysWorld/crays-platform/blob/main/services/member-club/source50/README.md) · [BFF source and contracts](https://github.com/CraysWorld/crays-platform/blob/main/services/clubs-commerce-bff/README.md) · [Service catalog](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/README.md)
+
 Our work combines **CRAYS applications** with **open-source business, collaboration, commerce and agent systems**. The interesting engineering happens at their boundaries: which account is acting, which company or property an action belongs to, how a provider acknowledges it, and what the interface should show when the result is still uncertain.
 
 This is where developers can understand that work, inspect the implementation and help improve it.
 
 **[Explore the platform](https://github.com/CraysWorld/crays-platform) · [Understand the architecture](https://github.com/CraysWorld/crays-platform/blob/main/docs/architecture.md) · [Choose a contribution](https://github.com/CraysWorld/crays-platform/blob/main/CONTRIBUTING.md) · [Find a repository](https://github.com/CraysWorld/.github/blob/main/docs/repositories.md)**
 
-[CRAYS Pro](#crays-pro--the-business-and-franchise-front-door) · [Personal, Chuck and OpenClaw](#personal-chuck-and-openclaw) · [Member and Club](#member-and-club) · [Work and business services](#work-and-business-services) · [Nostr and mobile](#nostr-mobile-and-connectivity) · [Websites](#the-crays-website-portfolio) · [Get involved](#build-with-us)
+[Architecture](#architecture) · [CRAYS Pro](#crays-pro--the-business-and-franchise-front-door) · [Personal, Chuck and OpenClaw](#personal-chuck-and-openclaw) · [Member and Club](#member-and-club) · [Work and business services](#work-and-business-services) · [Nostr and mobile](#nostr-mobile-and-connectivity) · [Websites](#the-crays-website-portfolio) · [Get involved](#build-with-us)
 
 ## CRAYS Pro — the business and franchise front door
 

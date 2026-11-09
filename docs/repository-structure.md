@@ -30,6 +30,8 @@ Personal Build02 configuration bodies stay under apps/personal/aws-build02, sepa
 
 The Club Next listener, original bootstrap template and native-origin/private-TLS configuration fragments stay under services/club-next-runtime. Their controllers, original patches and acceptance-program source stay under operations/club-next-runtime. Later Common-origin35 completion/adoption revisions extend the existing operations/member-origin35/adoption area. The exact sources are recorded separately from private credential/certificate bodies and live owner controls.
 
+The native iOS app stays in its existing crays-ios repository. The [native source map](native-source-map.md) identifies the current owner branch and immutable checkpoint tag separately from the older default branch. Native/Core and later Web/Core source authorities are distinct; source custody does not merge their code or resume paused product implementation.
+
 ## Reading a project
 
 Each project needs a concise README explaining purpose, intended readers, implementation location, related services and its current source/release status. From there, readers should reach:

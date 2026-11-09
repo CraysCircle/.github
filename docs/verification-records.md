@@ -134,3 +134,15 @@ The current image map lists all 54 original input paths, original body hashes, a
 Anonymous readback verified all 15 new/changed source-commit files and the entire published Personal directory, 1,535 files. Both full source views were restored again with all 2,975 independently pinned original comparisons passing, using eleven public image bodies and 43 separately supplied image inputs plus the protected source binding. The unchanged restorer retains its previous six refusal-check proofs. The bounded confidentiality check found zero findings; both resource leases were physically returned. No original application, operations, build, server or deployment program was executed.
 
 A fresh authenticated owner query inspected every returned owner page and again found zero repositories owned personally by ThorbenAroundTheWorld, including zero private repositories. No transfer was repeated.
+
+## Current original native iOS source checkpoint
+
+The existing private CraysCircle/crays-ios repository, ID1426572268, now retains the exact selected native source branch `codex/ios-original-owner-person-binding` at `d53dfa590279d8e47accbce09844a77578ce86fa`, with annotated tag `native-ios-source-preserved-20261109`. Six original commits after `8977297e844c893cd3377168402005bab356360e` were preserved by fast-forward and atomic branch/tag push. No original commit was rewritten; native product code did not change.
+
+Independent GitHub reads verified all six original commit identities, parent relationships and Git trees, plus size/SHA-256 for all 29 new original blob versions. The final original tree `aa426f9352f5e6924ffe3491cb07da82ab42343c` contains 3,511 tracked files. Whole-tree identity is recorded separately from individual blob readback. Nineteen changed paths contain owner documentation/research/handoffs.
+
+The bounded new-object scan returned seven generic-key findings. One is the checksum of the newer public database-access contract, matched to the exact original release receipt and recorded evidence pin. Six preserve the older public-contract checksum at the exact same field path/value already present in the old GitHub branch. All seven were adjudicated as integrity checksums; no new credential finding was confirmed. Original bodies were not modified.
+
+The original native workflow has workflow_dispatch only and retains its cost gate. No workflow was dispatched or newly observed for the source commit. Actions settings, default main checkpoint, visibility, native pause and protected device/TestFlight gates were preserved. No product program/build/runtime was executed, and original XXL source files were left unchanged.
+
+Fresh normal Core status still reports 595 entries; expanded untracked status reports 5,202 file entries including dependency fixtures/generated/protected material. Those statuses are not source-byte custody or acceptance proofs. Current Core/WIP, ignored native candidates, whole runtime and public/privacy/license review remain open.

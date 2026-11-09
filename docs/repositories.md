@@ -43,7 +43,7 @@ Preserved platform components:
 
 | Repository | Source role | Version guidance |
 | --- | --- | --- |
-| [crays-ios](https://github.com/CraysCircle/crays-ios) | Native CRAYS iOS application source: SwiftUI, Nostr and Core integration. | Kept separate from the Circle iOS project. |
+| [crays-ios](https://github.com/CraysCircle/crays-ios) | Native CRAYS iOS app, Core bridge, tests, original vendor notices and owner handoffs. | [Current branch, immutable source tag and Core boundaries](native-source-map.md). The current original source checkpoint d53dfa5 is preserved; public-access/privacy/rights and native product acceptance remain open. |
 | [CraysCircleApp-Android](https://github.com/CraysCircle/CraysCircleApp-Android) | CRAYS Circle Android application project. | Original project and license retained. |
 | [crayscircle-ios](https://github.com/CraysCircle/crayscircle-ios) | CRAYS Circle iOS WifiAware project. | A separate source project from crays-ios. |
 | [crays-ble](https://github.com/CraysCircle/crays-ble) | Separate Android and iOS source trees for the BLE project. | Component-level documentation and license mapping are being completed. |

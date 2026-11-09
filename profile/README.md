@@ -12,7 +12,7 @@ Use this map to find CRAYS projects, shared services and retained upstream forks
 
 | Repository | What it contains |
 | --- | --- |
-| [crays-platform](https://github.com/CraysCircle/crays-platform) | Shared CRAYS service source. Qlo gateway and Clubs Commerce BFF, original tests and notices, plus reviewed gateway and Delivery operations source. |
+| [crays-platform](https://github.com/CraysCircle/crays-platform) | Shared Next.js web application and separate Club/Member browser module; Qlo gateway, Clubs Commerce BFF, Work runtime and reviewed operations source. Exact source versions, recovery instructions and original notices are documented per component. |
 
 ## Websites and web applications
 

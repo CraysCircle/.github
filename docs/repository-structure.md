@@ -20,6 +20,8 @@ The later Next.js composition includes shared Member/SaaS and investment routes 
 
 Do not rename repositories, move product directories, rewrite history or replace framework conventions merely to make names look uniform. A README can explain a mixed historical tree while the current source mapping is being resolved.
 
+Member source25 uses [named compositions under apps/web](https://github.com/CraysCircle/crays-platform/tree/main/apps/web/compositions/member-source25). Each complete file manifest references unchanged source by immutable commit and retains changed source bodies or protected templates. The source-only materializer restores an exact input view; this preserves distinct versions without replacing the prepared Club tree or creating another repository. The two owner-supplied test inputs and full runtime recovery remain separate.
+
 ## Reading a project
 
 Each project needs a concise README explaining purpose, intended readers, implementation location, related services and its current source/release status. From there, readers should reach:

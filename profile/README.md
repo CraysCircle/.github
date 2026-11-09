@@ -8,7 +8,7 @@ Our work combines **CRAYS applications** with **open-source business, collaborat
 
 This is where developers can understand that work, inspect the implementation and help improve it.
 
-**[Explore the platform](https://github.com/CraysCircle/crays-platform) · [Understand the architecture](https://github.com/CraysCircle/crays-platform/blob/main/docs/architecture.md) · [Choose a contribution](https://github.com/CraysCircle/crays-platform/blob/main/CONTRIBUTING.md) · [Find a repository](https://github.com/CraysCircle/.github/blob/main/docs/repositories.md)**
+**[Explore the platform](https://github.com/CraysWorld/crays-platform) · [Understand the architecture](https://github.com/CraysWorld/crays-platform/blob/main/docs/architecture.md) · [Choose a contribution](https://github.com/CraysWorld/crays-platform/blob/main/CONTRIBUTING.md) · [Find a repository](https://github.com/CraysWorld/.github/blob/main/docs/repositories.md)**
 
 [CRAYS Pro](#crays-pro--the-business-and-franchise-front-door) · [Personal, Chuck and OpenClaw](#personal-chuck-and-openclaw) · [Member and Club](#member-and-club) · [Work and business services](#work-and-business-services) · [Nostr and mobile](#nostr-mobile-and-connectivity) · [Websites](#the-crays-website-portfolio) · [Get involved](#build-with-us)
 
@@ -20,7 +20,7 @@ The source describes a journey from understanding a concept and its property fit
 
 For developers, the public Next.js source offers concrete work on navigation, concept pages, relationship entry, accessibility, localization and clear public/private information boundaries. The public frontend is separate from the deeper Franchise Manager and Targomo integrations.
 
-**[Visit crays.pro](https://www.crays.pro)** · **[Explore CRAYS Pro source](https://github.com/CraysCircle/crays-pro)** · [Read its page and audience map](https://github.com/CraysCircle/crays-pro/blob/main/src/lib/crays-pro-public-metadata.ts) · [Development guide](https://github.com/CraysCircle/crays-pro/blob/main/docs/development-and-recovery.md)
+**[Visit crays.pro](https://www.crays.pro)** · **[Explore CRAYS Pro source](https://github.com/CraysWorld/crays-pro)** · [Read its page and audience map](https://github.com/CraysWorld/crays-pro/blob/main/src/lib/crays-pro-public-metadata.ts) · [Development guide](https://github.com/CraysWorld/crays-pro/blob/main/docs/development-and-recovery.md)
 
 ## The experiences we connect
 
@@ -43,7 +43,7 @@ Personal is the application workspace for an individual's tools and interactions
 
 Useful work here includes clearer task states, permission boundaries, tool contracts, review interfaces and synthetic tests that connect an application action to its expected outcome.
 
-[Personal source](https://github.com/CraysCircle/crays-platform/blob/main/apps/personal/README.md) · [Personal and Chuck guide](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/personal-and-chuck.md) · [OpenClaw components and modifications](https://github.com/CraysCircle/crays-platform/blob/main/third-party/personal-agent-materializer/README.md) · [Task starters](https://github.com/CraysCircle/crays-platform/blob/main/apps/personal/source/src/chuckPublicStarters.mjs)
+[Personal source](https://github.com/CraysWorld/crays-platform/blob/main/apps/personal/README.md) · [Personal and Chuck guide](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/personal-and-chuck.md) · [OpenClaw components and modifications](https://github.com/CraysWorld/crays-platform/blob/main/third-party/personal-agent-materializer/README.md) · [Task starters](https://github.com/CraysWorld/crays-platform/blob/main/apps/personal/source/src/chuckPublicStarters.mjs)
 
 ## Member and Club
 
@@ -53,7 +53,7 @@ A central engineering concern is preserving the relationship between the person 
 
 Published code gives contributors entry points into account/session handling, member document contracts, commerce interfaces and provider error states. Frontend, API and identity contributors can improve these flows with synthetic identities and clearly scoped provider responses.
 
-[Shared web application](https://github.com/CraysCircle/crays-platform/blob/main/apps/web/README.md) · [Club/Member browser module](https://github.com/CraysCircle/crays-platform/blob/main/modules/club-member/README.md) · [Identity and Auth0 guide](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/identity.md)
+[Shared web application](https://github.com/CraysWorld/crays-platform/blob/main/apps/web/README.md) · [Club/Member browser module](https://github.com/CraysWorld/crays-platform/blob/main/modules/club-member/README.md) · [Identity and Auth0 guide](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/identity.md)
 
 ## Work and business services
 
@@ -65,7 +65,7 @@ Work connects business activity to the systems responsible for projects, finance
 
 This is useful engineering territory for contributors interested in reliable integrations: duplicate delivery, timeout handling, webhook validation and understandable submitted/accepted/reconciled states. Plane has one canonical home in this architecture.
 
-[Plane integration](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/plane.md) · [Work-item adapter](https://github.com/CraysCircle/crays-platform/blob/main/apps/web/src/lib/member-commerce/plane-work-item-adapter.ts)
+[Plane integration](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/plane.md) · [Work-item adapter](https://github.com/CraysWorld/crays-platform/blob/main/apps/web/src/lib/member-commerce/plane-work-item-adapter.ts)
 
 ### Finance and business applications with Frappe / ERPNext
 
@@ -75,7 +75,7 @@ The recorded Frappe installation contains more than ERP alone: CRM, HRMS, Helpde
 
 The CRAYS Team Scope extension adds another concrete contribution area: request hooks and policy constraints for dedicated synthetic test service principals. Its original Python source is available alongside the commerce-to-ERP adapters.
 
-[Frappe / ERPNext guide](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/frappe.md) · [CRAYS Team Scope source](https://github.com/CraysCircle/crays-platform/blob/main/services/frappe/custom-apps/crays_team_scope/README.md) · [Commerce-to-ERP adapter](https://github.com/CraysCircle/crays-platform/blob/main/apps/web/src/lib/member-commerce/frappe-commerce-adapter.ts)
+[Frappe / ERPNext guide](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/frappe.md) · [CRAYS Team Scope source](https://github.com/CraysWorld/crays-platform/blob/main/services/frappe/custom-apps/crays_team_scope/README.md) · [Commerce-to-ERP adapter](https://github.com/CraysWorld/crays-platform/blob/main/apps/web/src/lib/member-commerce/frappe-commerce-adapter.ts)
 
 ### Files and collaboration with Nextcloud
 
@@ -85,7 +85,7 @@ The broader collaboration scope includes **Talk/calls, Office and Whiteboard**. 
 
 Contributions can improve document-state interfaces, byte/readback mismatch handling, ownership errors and membership reconciliation.
 
-[Nextcloud integration](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/nextcloud.md) · [Member document provider](https://github.com/CraysCircle/crays-platform/blob/main/apps/web/src/lib/clubs/member-nextcloud-document-provider.ts)
+[Nextcloud integration](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/nextcloud.md) · [Member document provider](https://github.com/CraysWorld/crays-platform/blob/main/apps/web/src/lib/clubs/member-nextcloud-document-provider.ts)
 
 ## Commerce with Vendure
 
@@ -95,7 +95,7 @@ The architecture keeps different responsibilities visible: Vendure's commerce st
 
 The published BFF implementation, original tests and dependency notices make this a practical area for API-contract examples, synthetic integration tests and safe response handling. Payment, fulfillment and current provider acceptance retain their own development status.
 
-[Commerce and Vendure guide](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/commerce.md) · [Clubs Commerce BFF](https://github.com/CraysCircle/crays-platform/blob/main/services/clubs-commerce-bff/README.md)
+[Commerce and Vendure guide](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/commerce.md) · [Clubs Commerce BFF](https://github.com/CraysWorld/crays-platform/blob/main/services/clubs-commerce-bff/README.md)
 
 ## Hospitality with Qlo
 
@@ -105,7 +105,7 @@ Content discovery and bookable inventory are different responsibilities. The doc
 
 Qlo is also a useful first contribution: the two small local projection tests use synthetic in-memory fixtures, without provider credentials or a running hospitality service.
 
-[Qlo guide and first local check](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/qlo.md#first-local-check-the-two-projection-tests) · [Gateway implementation](https://github.com/CraysCircle/crays-platform/blob/main/services/qlo-gateway/README.md) · [Work/Qlo runtime](https://github.com/CraysCircle/crays-platform/blob/main/services/work-qlo-runtime/README.md)
+[Qlo guide and first local check](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/qlo.md#first-local-check-the-two-projection-tests) · [Gateway implementation](https://github.com/CraysWorld/crays-platform/blob/main/services/qlo-gateway/README.md) · [Work/Qlo runtime](https://github.com/CraysWorld/crays-platform/blob/main/services/work-qlo-runtime/README.md)
 
 ## Gym and training
 
@@ -113,7 +113,7 @@ Gym gives training-focused experiences a place within the broader Personal works
 
 Frontend contributors can work on accessible training interfaces, clear workflow states, localization and documentation tied to the correct application layer. Begin with the public Personal source guide and the project map to understand which part of Gym a change affects.
 
-[Personal frontend and Gym views](https://github.com/CraysCircle/crays-platform/blob/main/apps/personal/README.md) · [Gym project orientation](https://github.com/CraysCircle/.github/blob/main/docs/repositories.md#websites-and-web-applications)
+[Personal frontend and Gym views](https://github.com/CraysWorld/crays-platform/blob/main/apps/personal/README.md) · [Gym project orientation](https://github.com/CraysWorld/.github/blob/main/docs/repositories.md#websites-and-web-applications)
 
 ## Nostr, mobile and connectivity
 
@@ -123,7 +123,7 @@ This separation matters when contributing: an application interaction, event tra
 
 Native work includes the CRAYS iOS application, separate Circle iOS and Android projects, BLE source and nearby-connectivity work. Use the mobile map to choose the project and understand its current access and integration scope.
 
-[Network/Nostr guide](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/network.md) · [Net application source](https://github.com/CraysCircle/crays-web-codex) · [Mobile and connectivity projects](https://github.com/CraysCircle/.github/blob/main/docs/repositories.md#mobile-applications)
+[Network/Nostr guide](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/network.md) · [Net application source](https://github.com/CraysWorld/crays-web-codex) · [Mobile and connectivity projects](https://github.com/CraysWorld/.github/blob/main/docs/repositories.md#mobile-applications)
 
 ## Creator tools and Postiz delivery
 
@@ -131,7 +131,7 @@ Personal includes creator-studio and publishing interfaces. Postiz is a separate
 
 The useful contribution question is how a draft or reviewed action becomes an authorized delivery request, which worker owns it and what happens after a timeout or retry. The interface and provider records are documented separately; their presence alone does not establish a completed end-to-end publishing integration.
 
-[Creator and Postiz guide](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/delivery-and-social.md) · [Creator studio source](https://github.com/CraysCircle/crays-platform/blob/main/apps/personal/source/src/WebCreatorStudio.tsx)
+[Creator and Postiz guide](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/delivery-and-social.md) · [Creator studio source](https://github.com/CraysWorld/crays-platform/blob/main/apps/personal/source/src/WebCreatorStudio.tsx)
 
 ## The CRAYS website portfolio
 
@@ -139,20 +139,20 @@ Eleven website compositions give different parts of the ecosystem their own entr
 
 | Portfolio area | Websites and source orientation |
 | --- | --- |
-| Community, hospitality and personal activity | **Club, Coffee and Gym.** [Club](https://github.com/CraysCircle/crays-club) and [Coffee](https://github.com/CraysCircle/crays-coffee) have public website repositories; shared Club/Member and Personal/Gym implementation also lives in the platform. |
-| Business and commerce | **Pro and Shop.** [Pro](https://github.com/CraysCircle/crays-pro) presents concepts and business relationships; [Shop](https://github.com/CraysCircle/crays-shop) contains the storefront source. |
-| Association and network | **Org and Net.** [Org](https://github.com/CraysCircle/crays-org) includes multilingual association pages and Nostr/ecosystem directories; [Net](https://github.com/CraysCircle/crays-web-codex) retains the Primal-derived web project. |
-| Wider portfolio | **Fund, World, Award and Fun.** The [website map](https://github.com/CraysCircle/.github/blob/main/docs/repository-structure.md#eleven-website-compositions) records their individual source relationships and remaining access/destination work. |
+| Community, hospitality and personal activity | **Club, Coffee and Gym.** [Club](https://github.com/CraysWorld/crays-club) and [Coffee](https://github.com/CraysWorld/crays-coffee) have public website repositories; shared Club/Member and Personal/Gym implementation also lives in the platform. |
+| Business and commerce | **Pro and Shop.** [Pro](https://github.com/CraysWorld/crays-pro) presents concepts and business relationships; [Shop](https://github.com/CraysWorld/crays-shop) contains the storefront source. |
+| Association and network | **Org and Net.** [Org](https://github.com/CraysWorld/crays-org) includes multilingual association pages and Nostr/ecosystem directories; [Net](https://github.com/CraysWorld/crays-web-codex) retains the Primal-derived web project. |
+| Wider portfolio | **Fund, World, Award and Fun.** The [website map](https://github.com/CraysWorld/.github/blob/main/docs/repository-structure.md#eleven-website-compositions) records their individual source relationships and remaining access/destination work. |
 
-Website count and repository count are different. Shared applications belong in the platform; independent sites keep their own project context. The [repository guide](https://github.com/CraysCircle/.github/blob/main/docs/repositories.md) explains where to make a change.
+Website count and repository count are different. Shared applications belong in the platform; independent sites keep their own project context. The [repository guide](https://github.com/CraysWorld/.github/blob/main/docs/repositories.md) explains where to make a change.
 
 ## How the software fits together
 
 | Layer | Responsibility | Developer entry |
 | --- | --- | --- |
-| Applications | Personal, Club/Member, native clients and independent websites present the user experience. | [Application map](https://github.com/CraysCircle/crays-platform/blob/main/README.md#find-a-component) |
-| CRAYS integration code | Account/session mapping, document contracts, company/property scope, commerce consequences, provider adapters and webhook reconciliation. | [Service hub](https://github.com/CraysCircle/crays-platform/blob/main/docs/services/README.md) |
-| Provider and agent systems | Frappe/ERPNext, Nextcloud, Plane, Vendure, Qlo, Postiz and the separately documented Chuck/OpenClaw layers retain their own responsibilities. | [Architecture guide](https://github.com/CraysCircle/crays-platform/blob/main/docs/architecture.md) |
+| Applications | Personal, Club/Member, native clients and independent websites present the user experience. | [Application map](https://github.com/CraysWorld/crays-platform/blob/main/README.md#find-a-component) |
+| CRAYS integration code | Account/session mapping, document contracts, company/property scope, commerce consequences, provider adapters and webhook reconciliation. | [Service hub](https://github.com/CraysWorld/crays-platform/blob/main/docs/services/README.md) |
+| Provider and agent systems | Frappe/ERPNext, Nextcloud, Plane, Vendure, Qlo, Postiz and the separately documented Chuck/OpenClaw layers retain their own responsibilities. | [Architecture guide](https://github.com/CraysWorld/crays-platform/blob/main/docs/architecture.md) |
 
 The stack spans Next.js/React web code, a React/Vite Personal frontend, TypeScript/JavaScript services, Python integration code and native projects. Storage, queues and runtime dependencies belong to the relevant component's setup. There is no single command that installs and starts the entire ecosystem.
 
@@ -162,18 +162,18 @@ You do not have to understand every service before making a useful contribution.
 
 | If you care about… | A concrete place to begin |
 | --- | --- |
-| A small first code change | Add a synthetic malformed-input case in the [Qlo projection-test exercise](https://github.com/CraysCircle/crays-platform/blob/main/CONTRIBUTING.md#a-small-first-test). |
-| Personal tools and agents | Trace a [Chuck task starter](https://github.com/CraysCircle/crays-platform/blob/main/apps/personal/source/src/chuckPublicStarters.mjs) to its task/review contract; improve the interface or document its permission boundary. |
-| Business-facing experiences | Improve [Pro navigation and public pages](https://github.com/CraysCircle/crays-pro), accessibility or the clarity of relationship entry. |
+| A small first code change | Add a synthetic malformed-input case in the [Qlo projection-test exercise](https://github.com/CraysWorld/crays-platform/blob/main/CONTRIBUTING.md#a-small-first-test). |
+| Personal tools and agents | Trace a [Chuck task starter](https://github.com/CraysWorld/crays-platform/blob/main/apps/personal/source/src/chuckPublicStarters.mjs) to its task/review contract; improve the interface or document its permission boundary. |
+| Business-facing experiences | Improve [Pro navigation and public pages](https://github.com/CraysWorld/crays-pro), accessibility or the clarity of relationship entry. |
 | Reliable business integrations | Add synthetic company-scope, timeout, duplicate-delivery or signed-webhook cases using the Frappe and Plane guides. |
 | Documents and collaboration | Improve Nextcloud ownership/error states, WebDAV readback tests or group-membership reconciliation examples. |
 | Web/mobile experience | Choose an application from the project map and work on accessibility, localization, interface states or integration documentation. |
 | Open-source maintenance | Map exact upstream versions and CRAYS changes, preserve original notices and improve reproducible component setup. |
 
-Start with [Contributing](https://github.com/CraysCircle/crays-platform/blob/main/CONTRIBUTING.md). Pick one component, read its setup requirements, use synthetic test data and describe the result you expect. The [platform issue tracker](https://github.com/CraysCircle/crays-platform/issues) is a place to propose a concrete problem or improvement; independent projects use their own repository.
+Start with [Contributing](https://github.com/CraysWorld/crays-platform/blob/main/CONTRIBUTING.md). Pick one component, read its setup requirements, use synthetic test data and describe the result you expect. The [platform issue tracker](https://github.com/CraysWorld/crays-platform/issues) is a place to propose a concrete problem or improvement; independent projects use their own repository.
 
 ## Source, licenses and development status
 
-CRAYS-specific work and the upstream projects it connects remain identifiable. Original authorship, licenses and notices apply per component; explicit CRAYS-owned grants are documented in the [component license map](https://github.com/CraysCircle/crays-platform/blob/main/LICENSING.md). This profile does not add a blanket license.
+CRAYS-specific work and the upstream projects it connects remain identifiable. Original authorship, licenses and notices apply per component; explicit CRAYS-owned grants are documented in the [component license map](https://github.com/CraysWorld/crays-platform/blob/main/LICENSING.md). This profile does not add a blanket license.
 
-Development and source publication are continuing. A published implementation describes inspectable work, not a promise that every integration is enabled or accepted in a current deployment. [Source and license status](https://github.com/CraysCircle/.github/blob/main/docs/source-and-license-status.md) records remaining work. [Historical projects](https://github.com/CraysCircle/.github/blob/main/docs/legacy-projects.md), including Twenty and OpenProject, are kept separate from the current product map.
+Development and source publication are continuing. A published implementation describes inspectable work, not a promise that every integration is enabled or accepted in a current deployment. [Source and license status](https://github.com/CraysWorld/.github/blob/main/docs/source-and-license-status.md) records remaining work. [Historical projects](https://github.com/CraysWorld/.github/blob/main/docs/legacy-projects.md), including Twenty and OpenProject, are kept separate from the current product map.

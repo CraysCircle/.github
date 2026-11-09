@@ -1,6 +1,6 @@
 # CRAYS organization navigation
 
-This repository maintains the public CraysCircle organization profile and source navigation.
+This repository maintains the public CraysWorld organization profile and source navigation.
 
 - [Organization profile](profile/README.md)
 - [Repository guide](docs/repositories.md)
